@@ -1,4 +1,8 @@
 ---
+layout: single
+title: "About Me"
+---
+
 permalink: /
 title: "James K. Rice"
 author_profile: true
