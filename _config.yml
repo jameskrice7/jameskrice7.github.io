@@ -14,7 +14,7 @@ title                    : "James K. Rice: A Digital Silouette and Portfolio"
 title_separator          : "-"
 name                     : &name "James Rice"
 description              : &description "PhD Student at the University of Essex"
-url                      : https://jameskrice7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jameskrice7.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/aboutme"
 repository               : "jameskrice7.github.io"
 
