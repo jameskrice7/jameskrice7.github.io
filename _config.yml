@@ -25,7 +25,7 @@ theme: minimal-mistakes-jekyll
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/portrait.jpeg"
+  avatar           : "/images/portrait.jpeg"
   name             : "About Me:"
   pronouns         : # example: "He/Him/His"  
   bio              : "Welcome to my website!"
