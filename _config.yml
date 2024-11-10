@@ -15,8 +15,10 @@ title_separator          : "-"
 name                     : &name "James Rice"
 description              : &description "PhD Student at the University of Essex"
 url                      : "https://jameskrice7.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/aboutme"
+baseurl                  : ""
 repository               : "jameskrice7.github.io"
+
+theme: minimal-mistakes-jekyll
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
