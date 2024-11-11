@@ -2,7 +2,7 @@
 title: "The Social Justification of Climate Change Beliefs and Environmental Communication"
 collection: conference
 category: manuscripts
-permalink: /_publications/Cambridge_disinformation
+permalink: /_publications/Climate_Disinformation
 excerpt: 'While our beliefs about crucial political issues such as climate change are shaped by a variety of psychological and socioeconomic influences, this essay argues that one source of those beliefs comes from the responsibility that climate scientists have, as domain experts on the science and policy of climate change, to protect the public from misinformation.'
 date: 2024-11-01
 venue: 'Cambridge Disinformation Summit (under review)'
