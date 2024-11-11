@@ -69,4 +69,6 @@ Teaching
   
 Service and leadership
 ======
-* 
+  <ul>{% for post in site.service_and_leadership reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
