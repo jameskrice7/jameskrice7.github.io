@@ -2,7 +2,7 @@
 title: "Political Liberalism and Moral Pluralism"
 collection: talks
 type: "Talk"
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/talk-2
 venue: "The London School of Economics and Political Science"
 date: 2023-11-25
 location: "London, UK"
