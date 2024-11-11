@@ -2,7 +2,7 @@
 title: "The Social Construction of Religious Political Morality"
 collection: talks
 type: "Talk"
-permalink: /talks/talk-9
+permalink: /talks/talk-10
 venue: "The London School of Economics and Political Science "
 date: 2024-05-12
 location: "London, UK"
