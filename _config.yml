@@ -223,6 +223,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  service_and_leadership:
+    output: true
+    permalink: /service_and_leadership/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
