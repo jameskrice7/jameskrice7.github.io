@@ -2,7 +2,7 @@
 title: "Darwin and Natural Theology"
 collection: talks
 type: "Talk"
-permalink: /talks/talk-7
+permalink: /talks/talk-6
 venue: "The University of Edinburgh"
 date: 2023-02-6
 location: "Edinburgh, UK"
