@@ -8,6 +8,5 @@ date: 2023-11-25
 location: "London, UK"
 ---
 
-[More information here](http://example2.com)
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Presentation of my research proposal for my MSc dissertation. Feedback-based talk on Rawlsian liberal political theory and climate ethics. 
