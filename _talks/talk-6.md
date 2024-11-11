@@ -2,7 +2,7 @@
 title: "St. Augustine's Confessions"
 collection: talks
 type: "Talk"
-permalink: /talks/talk-4
+permalink: /talks/talk-6
 venue: "Harvard Extension School"
 date: 2022-01-11
 location: "Cambridge, Massachusetts"
