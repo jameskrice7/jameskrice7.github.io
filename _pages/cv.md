@@ -16,6 +16,7 @@ Education
 * MSc in Philosophy, Science and Religion, The University of Edinburgh, 2023
 * B.S. in Economics, The University of Connecticut, 2020
 
+{% comment %}
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -32,6 +33,8 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+{% endcomment %}
+
   
 Skills
 ======
@@ -56,12 +59,15 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+{% comment %}
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endcomment %}
   
 Service and leadership
 ======
