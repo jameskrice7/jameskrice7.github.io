@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/talk-5
 venue: "The University of Connecticut"
 date: 2020-04-10
-location: "Storrs, CT"
+location: "Storrs, Connecticut"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Presentation on US options pricing given to advanced PhD level class on Financial Econometrics. Talk based on Schreve's "Stochastic Calculus for Finance II" book, Chapter 8.
