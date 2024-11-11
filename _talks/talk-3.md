@@ -2,7 +2,7 @@
 title: "Using Machine Learning for Macroeconomic Prediction"
 collection: talks
 type: "Talk"
-permalink: /talks/talk-6
+permalink: /talks/talk-3
 venue: "The University of Connecticut"
 date: 2020-02-17
 location: "Storrs, Connecticut"
