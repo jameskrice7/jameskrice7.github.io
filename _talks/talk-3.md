@@ -4,8 +4,8 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-3
 venue: "The University of Edinburgh"
-date: 2023-04-14
+date: 2023-02-6
 location: "Edinburgh, UK"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Talk given for Spring Term course, Life and Mind, on the Edinburgh MSc in Philosophy, Science and Religion. Based on the work of Leonard Lessius (1554-1623), T. H. Huxley, Richard Dawkins, and John Polkinghorne. 
