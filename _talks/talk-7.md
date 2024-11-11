@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/talk-7
 venue: "The Federal Reserve Bank of Boston"
 date: 2019-11-26
-location: "Boston, MA"
+location: "Boston, Massachusetts"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Group presentation for a collegiate competition judged by Federal Reserve economists and academics. My contribution was the modeling section of the talk, where I explained the exploratory analysis and PCA model results. 
