@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/talk-4
 venue: "Harvard Extension School"
 date: 2022-01-11
-location: "Cambridge, MA"
+location: "Cambridge, Massachusetts"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Presented a flash talk to the Harvard Extension School (HES) professional development reading group. Tutorial based on the life of St. Augustine and his lesser known work "Confessions."
