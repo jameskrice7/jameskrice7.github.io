@@ -8,4 +8,4 @@ date: 2024-05-12
 location: "London, UK"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Presented my work in progress MSc dissertation to a group of peers from the Department of Philosophy, Logic and Scientific Method at LSE.
