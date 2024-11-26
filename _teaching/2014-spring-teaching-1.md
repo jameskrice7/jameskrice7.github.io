@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "Training"
+collection: training
+type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Max Planck Institute for Demographic Research"
+date: 2024-11-04
+location: "Virtual"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Undertook a weeklong course in empirical methods for demographic research - migration, population, settlement, etc. 
