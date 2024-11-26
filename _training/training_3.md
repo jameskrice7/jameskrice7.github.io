@@ -1,8 +1,9 @@
 ---
 title: "Training"
+layout: single
 collection: training
 type: "Postgraduate course"
-permalink: /training/training_3
+permalink: /training/training_3/
 venue: "LSE Faith Centre"
 date: 2024-01-012
 location: "LSE"
