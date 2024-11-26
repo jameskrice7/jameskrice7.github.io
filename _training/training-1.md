@@ -1,6 +1,6 @@
 ---
 title: "Training"
-layout: page
+layout: single
 type: "Postgraduate course"
 permalink: /training/training-1/
 venue: "Max Planck Institute for Demographic Research"
