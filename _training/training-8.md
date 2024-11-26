@@ -4,7 +4,7 @@ layout: single
 type: "Postgraduate course"
 permalink: /training/training-8/
 venue: "United Nations Institute for Training and Research (UNITAR)"
-date: 2018-02-019
+date: 2018-02-19
 location: "New York, NY"
 ---
 
