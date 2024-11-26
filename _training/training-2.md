@@ -1,9 +1,9 @@
 ---
-title: "Training"
+title: "LSE Faith Centre and Cambridge University Interfaith Programme"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-2/
-venue: "LSE Faith Centre and Cambridge University Interfaith Programme"
+venue: "Summer School"
 date: 2024-07-05
 location: "Cambridge University"
 ---
