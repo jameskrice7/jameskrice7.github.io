@@ -1,5 +1,5 @@
 ---
-title: "Training"
+title: "Max Planck Institute for Demographic Research"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-1/
