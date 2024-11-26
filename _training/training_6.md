@@ -1,8 +1,9 @@
 ---
 title: "Training"
+layout: single
 collection: training
 type: "Postgraduate course"
-permalink: /training/training_6
+permalink: /training/training_6/
 venue: "New England Complex Systems Institute (NESCI)"
 date: 2020-01-13
 location: "Cambridge, MA"
