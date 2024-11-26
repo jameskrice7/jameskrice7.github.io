@@ -1,5 +1,5 @@
 ---
-title: "NESCI Winter School in Complex Systems"
+title: "NESCI Winter School in Complex Systems 2020"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-6/
