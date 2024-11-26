@@ -2,7 +2,7 @@
 title: "Training"
 layout: page
 type: "Postgraduate course"
-permalink: /training/training_5/
+permalink: /training/training-5/
 venue: "Utrecht University"
 date: 2023-08-01
 location: "Virtual"
