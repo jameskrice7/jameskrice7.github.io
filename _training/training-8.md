@@ -1,5 +1,5 @@
 ---
-title: "Training"
+title: "International Relations and Global Diplomacy Postgraduate Training"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-8/
