@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% assign sorted_posts = site.training | sort: 'date' | reverse %}
-{% for post in site.training %}
+{% for post in sorted_posts %}
   <div class="archive__item">
     <h2 class="archive__item-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
