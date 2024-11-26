@@ -14,6 +14,7 @@ Education
 * Ph.D in Government, The University of Essex, 2027 (expected)
 * MSc in Philosophy of the Social Sciences, The London School of Economics and Political Science, 2024
 * MSc in Philosophy, Science and Religion, The University of Edinburgh, 2023
+* Postgraduate Certificate in Philosophy and Ethics, Harvard University, 2022
 * B.S. in Economics, The University of Connecticut, 2020
 
 <!--
