@@ -1,5 +1,5 @@
 ---
-title: "Training"
+title: "Frederic Bastiat Fellowship"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-4/
