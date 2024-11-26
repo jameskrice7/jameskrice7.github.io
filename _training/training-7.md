@@ -2,7 +2,7 @@
 title: "LSE Faith Centre and Cambridge University Interfaith Programme 2024"
 layout: single
 type: "Postgraduate course"
-permalink: /training/training-8/
+permalink: /training/training-7/
 venue: "Summer School"
 date: 2024-07-05
 location: "Cambridge University"
