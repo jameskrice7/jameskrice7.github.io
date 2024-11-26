@@ -4,7 +4,6 @@ title: "Training"
 permalink: /training/
 author_profile: true
 ---
-<h1>{{ page.title }}</h1>
 {% for post in site.training %}
   <div class="archive__item">
     <h2 class="archive__item-title">
