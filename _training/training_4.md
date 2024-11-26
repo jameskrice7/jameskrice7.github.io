@@ -1,7 +1,6 @@
 ---
 title: "Training"
-layout: single
-collection: training
+layout: page
 type: "Postgraduate course"
 permalink: /training/training_4/
 venue: "The Mercatus Center at George Mason University"
