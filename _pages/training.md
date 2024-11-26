@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: default
 title: "Training"
 permalink: /training/
 collection: training
