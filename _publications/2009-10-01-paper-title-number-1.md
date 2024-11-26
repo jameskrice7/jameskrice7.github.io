@@ -1,5 +1,5 @@
 ---
-title: "The Prospect of ‘Just Emissions’ as an International Norm of Environmental Governance"
+title: "The Prospect of Just Emissions as an International Norm of Environmental Governance"
 collection: publications
 category: manuscripts
 permalink: /_publications/Just_Emissions
