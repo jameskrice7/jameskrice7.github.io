@@ -1,7 +1,6 @@
 ---
 title: "Training"
-layout: single
-collection: training
+layout: page
 type: "Postgraduate course"
 permalink: /training/training_5/
 venue: "Utrecht University"
