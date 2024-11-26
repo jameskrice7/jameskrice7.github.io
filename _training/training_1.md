@@ -1,8 +1,9 @@
 ---
 title: "Training"
+layout: single
 collection: training
 type: "Postgraduate course"
-permalink: /training/training_1
+permalink: /training/training_1/
 venue: "Max Planck Institute for Demographic Research"
 date: 2024-11-04
 location: "Virtual"
