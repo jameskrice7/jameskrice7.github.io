@@ -2,7 +2,7 @@
 title: "International Relations and Global Diplomacy Postgraduate Training 2018"
 layout: single
 type: "Postgraduate course"
-permalink: /training/training-8/
+permalink: /training/training-1/
 venue: "United Nations Institute for Training and Research (UNITAR)"
 date: 2018-02-19
 location: "New York, NY"
