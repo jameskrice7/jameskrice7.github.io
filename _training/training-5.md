@@ -1,5 +1,5 @@
 ---
-title: "The Posthuman and New Materialism Summer School"
+title: "The Posthuman and New Materialism Summer School 2023"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-5/
