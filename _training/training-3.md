@@ -1,9 +1,9 @@
 ---
-title: "Training"
+title: "LSE Faith Centre"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-3/
-venue: "LSE Faith Centre"
+venue: "Beecken Faith and Leadership Programme"
 date: 2024-01-12
 location: "LSE"
 ---
