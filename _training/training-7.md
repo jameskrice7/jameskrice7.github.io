@@ -1,5 +1,5 @@
 ---
-title: "Training"
+title: "LSE Summer School 2018"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-7/
