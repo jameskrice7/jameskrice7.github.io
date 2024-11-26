@@ -2,7 +2,7 @@
 title: "Training"
 collection: training
 type: "Postgraduate course"
-permalink: /training/training_1
+permalink: /training/training_2
 venue: "LSE Faith Centre and Cambridge University Interfaith Programme"
 date: 2024-07-05
 location: "Cambridge University"
