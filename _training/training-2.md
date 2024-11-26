@@ -1,5 +1,5 @@
 ---
-title: "LSE Faith Centre and Cambridge University Interfaith Programme"
+title: "LSE Faith Centre and Cambridge University Interfaith Programme 2024"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-2/
