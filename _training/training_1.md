@@ -2,7 +2,7 @@
 title: "Training"
 collection: training
 type: "Postgraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /training/training_1
 venue: "Max Planck Institute for Demographic Research"
 date: 2024-11-04
 location: "Virtual"
