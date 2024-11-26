@@ -1,6 +1,6 @@
 ---
 title: "Training"
-layout: page
+layout: single
 type: "Postgraduate course"
 permalink: /training/training-7/
 venue: "The London School of Economics and Political Science"
