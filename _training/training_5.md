@@ -1,8 +1,9 @@
 ---
 title: "Training"
+layout: single
 collection: training
 type: "Postgraduate course"
-permalink: /training/training_5
+permalink: /training/training_5/
 venue: "Utrecht University"
 date: 2023-08-01
 location: "Virtual"
