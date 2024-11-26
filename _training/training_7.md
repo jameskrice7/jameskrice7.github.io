@@ -1,8 +1,9 @@
 ---
 title: "Training"
+layout: single
 collection: training
 type: "Postgraduate course"
-permalink: /training/training_7
+permalink: /training/training_7/
 venue: "The London School of Economics and Political Science"
 date: 2018-06-15
 location: "London, UK"
