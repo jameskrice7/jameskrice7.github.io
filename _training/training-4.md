@@ -2,7 +2,7 @@
 title: "Training"
 layout: page
 type: "Postgraduate course"
-permalink: /training/training_4/
+permalink: /training/training-4/
 venue: "The Mercatus Center at George Mason University"
 date: 2023-2024
 location: "Fairfax, VA"
