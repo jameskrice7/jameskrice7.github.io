@@ -1,5 +1,5 @@
 ---
-title: "LSE Faith Centre"
+title: "LSE Faith Centre 2024"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-3/
