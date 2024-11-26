@@ -1,6 +1,6 @@
 ---
 title: "Training"
-layout: page
+layout: single
 type: "Postgraduate course"
 permalink: /training/training-3/
 venue: "LSE Faith Centre"
