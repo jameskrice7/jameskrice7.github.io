@@ -1,5 +1,5 @@
 ---
-title: "Frederic Bastiat Fellowship"
+title: "Frederic Bastiat Fellowship 2023-2024"
 layout: single
 type: "Postgraduate course"
 permalink: /training/training-4/
