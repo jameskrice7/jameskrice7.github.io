@@ -4,7 +4,7 @@ layout: single
 type: "Postgraduate course"
 permalink: /training/training-3/
 venue: "LSE Faith Centre"
-date: 2024-01-012
+date: 2024-01-12
 location: "LSE"
 ---
 
