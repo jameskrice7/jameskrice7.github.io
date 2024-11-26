@@ -2,7 +2,7 @@
 title: "NESCI Winter School in Complex Systems 2020"
 layout: single
 type: "Postgraduate course"
-permalink: /training/training-6/
+permalink: /training/training-3/
 venue: "New England Complex Systems Institute (NESCI)"
 date: 2020-01-13
 location: "Cambridge, MA"
