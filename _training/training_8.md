@@ -1,8 +1,9 @@
 ---
 title: "Training"
+layout: single
 collection: training
 type: "Postgraduate course"
-permalink: /training/training_8
+permalink: /training/training_8/
 venue: "United Nations Institute for Training and Research (UNITAR)"
 date: 2018-02-019
 location: "New York, NY"
