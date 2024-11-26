@@ -1,0 +1,30 @@
+.page__content {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.page__sidebar {
+  flex: 0 0 300px;
+  max-width: 300px;
+  box-sizing: border-box;
+}
+
+.page__main {
+  flex: 1;
+  min-width: 0;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+  .page__content {
+    flex-direction: column;
+  }
+
+  .page__sidebar,
+  .page__main {
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+}
