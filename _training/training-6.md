@@ -1,6 +1,6 @@
 ---
 title: "Training"
-layout: page
+layout: single
 type: "Postgraduate course"
 permalink: /training/training-6/
 venue: "New England Complex Systems Institute (NESCI)"
