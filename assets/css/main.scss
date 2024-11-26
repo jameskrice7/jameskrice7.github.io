@@ -46,3 +46,34 @@
     border-radius: 50%; /* Makes the image circular */
     object-fit: cover; /* Ensures the image scales to fit within the circle */
 }
+
+.page__content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start; /* Ensures the sidebar and main content align at the top */
+  gap: 20px; /* Adds spacing between the sidebar and main content */
+}
+
+.page__sidebar {
+  flex: 0 1 25%; /* Sidebar takes up 25% of the width */
+  max-width: 300px; /* Ensures the sidebar doesn't grow too large */
+  box-sizing: border-box; /* Includes padding and border in width calculation */
+}
+
+.page__main {
+  flex: 1 1 70%; /* Main content takes the remaining width */
+  box-sizing: border-box; /* Includes padding and border in width calculation */
+  overflow: hidden; /* Prevents content from spilling */
+}
+
+@media screen and (max-width: 768px) {
+  .page__content {
+    flex-direction: column; /* Stacks the sidebar and main content on smaller screens */
+  }
+  .page__sidebar,
+  .page__main {
+    flex: 1 1 100%; /* Both sections take full width on smaller screens */
+    max-width: 100%;
+  }
+}
+
