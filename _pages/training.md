@@ -4,6 +4,7 @@ title: "Training"
 permalink: /training/
 author_profile: true
 ---
+{% assign sorted_posts = site.training | sort: 'date' %}
 {% for post in site.training %}
   <div class="archive__item">
     <h2 class="archive__item-title">
