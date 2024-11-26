@@ -2,7 +2,7 @@
 title: "LSE Faith Centre 2024"
 layout: single
 type: "Postgraduate course"
-permalink: /training/training-7/
+permalink: /training/training-6/
 venue: "Beecken Faith and Leadership Programme"
 date: 2024-01-12
 location: "LSE"
