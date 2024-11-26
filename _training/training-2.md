@@ -2,7 +2,7 @@
 title: "LSE Summer School 2018"
 layout: single
 type: "Postgraduate course"
-permalink: /training/training-7/
+permalink: /training/training-2/
 venue: "The London School of Economics and Political Science"
 date: 2018-06-15
 location: "London, UK"
