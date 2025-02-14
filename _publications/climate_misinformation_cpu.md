@@ -1,6 +1,7 @@
 ---
 title: "The Effect of Climate Misinformation on Climate Policy Uncertainty"
 collection: conference
+author: "James Rice"
 category: working_papers
 permalink: /_publications/Climate_Misinformation_CPU
 excerpt: 'If the impacts of online fake news were well understood, then the spread of work covering misinformation would be more grounded in concrete solutions, including ones implementable by the political leaders who create regulations and the technocrats who moderate online public fora.'
