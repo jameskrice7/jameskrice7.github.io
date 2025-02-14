@@ -43,7 +43,7 @@ author:
   researchgate     : "https://www.researchgate.net/profile/James-Rice-9"
   scopus           : # URL
   academia         : "https://essex.academia.edu/JamesRice"
-  linkedin         : ""
+  linkedin         : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : #"https://www.linkedin.com/in/james-rice-ab0b4b2bb/"
+  linkedin         : "https://www.linkedin.com/in/james-rice-ab0b4b2bb/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
