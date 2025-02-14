@@ -2,7 +2,7 @@
 title: "An Ecological Ethics for the Anthropocene: Environmental Justice and Religion"
 collection: publications
 category: conferences
-permalink: /_publications/Conf_paper
+permalink: /_publications/Ecological_ethics
 excerpt: 'This essay examines the relationship between critical theological theories within
 avant-garde scholarship on religion as a social phenomenon and the equally, if not
 more, pressing revelations of climate scientists regarding the ecological crisis
