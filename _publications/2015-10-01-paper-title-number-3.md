@@ -1,7 +1,7 @@
 ---
 title: "The Social Construction of Religious Political Morality"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This is my LSE dissertation. It is currently a conference paper, as I prepare for publication.'
 date: 2024-12-04
