@@ -8,7 +8,7 @@ date: 2025-02-01
 venue: 'Working Paper'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Rice, James. (2024). &quot;Climate Change and Complexity in Classical Liberal Theories of Development.&quot; <i>Work in Progress</i>.'
+citation: 'Rice, James. (2025). &quot;Climate Change and Complexity in Classical Liberal Theories of Development.&quot; <i>Work in Progress</i>.'
 ---
 
 By focusing on "simple rules for a complex world," I show how government-imposed constraints, when guided by stable and equally applicable frameworks, can help shape group agency and collective choice. Regulated choice, I argue, is essential to tackling social and environmental externalities caused by human action - such as climate change. My conclusion will argue that stochastic shocks which originate in natural phenomena caused, indirectly, by humans (i.e., climate change), impair efforts for international development, and create additional feedback loops which slow progress in social justice, global inequality, and international cooperation on issues like the environment between countries at varying levels of wealth and income.
