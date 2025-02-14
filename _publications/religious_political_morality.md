@@ -1,6 +1,7 @@
 ---
 title: "The Social Construction of Religious Political Morality"
 collection: publications
+author: "James Rice"
 category: conferences
 permalink: /publication/religious_political_morality
 excerpt: 'This is my LSE dissertation. It is currently a conference paper, as I prepare for publication.'
