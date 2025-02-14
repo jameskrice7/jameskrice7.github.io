@@ -1,5 +1,6 @@
 ---
 title: "Climate Change Misinformation and Integrity in Environmental Communication"
+author: "James Rice"
 collection: publications
 category: working_papers
 permalink: /_publications/Climate_Misinformation
