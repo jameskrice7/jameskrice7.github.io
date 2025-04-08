@@ -32,5 +32,9 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-
+<!-- Working Papers Section -->
+<h2>Working Papers</h2><hr />
+{% for post in site.working_papers reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
