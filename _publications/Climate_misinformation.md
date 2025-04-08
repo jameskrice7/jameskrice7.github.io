@@ -3,7 +3,7 @@ title: "Climate Change Misinformation and Integrity in Environmental Communicati
 author: "James Rice"
 collection: publications
 category: working_papers
-permalink: /_publications/Climate_Misinformation
+permalink: /_working_papers/Climate_Misinformation
 excerpt: 'While our beliefs about crucial political issues such as climate change are shaped by a variety of psychological and socioeconomic influences, this essay argues that one source of those beliefs comes from the responsibility that climate scientists have, as domain experts on the science and policy of climate change, to protect the public from misinformation.'
 date: 2024-11-01
 venue: 'Cambridge Disinformation Summit (under review)'
