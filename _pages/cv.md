@@ -22,7 +22,7 @@ Work experience
 ======
 * Spring 2025 - Present: Research Associate 
   * Oxford Computational Political Science Group
-  * Oxford Institute Project on Moral Contagion
+  * Oxford Internet Institute (OII) Project on Moral Contagion
   * Supervisor: Calvin Yixiang Cheng
 * 2023 - 2024: Frederic Bastiat Fellow
   * Fellow at the Mercatus Center at George Mason University
