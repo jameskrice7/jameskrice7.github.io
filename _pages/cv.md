@@ -17,24 +17,16 @@ Education
 * Postgraduate Certificate in Philosophy and Ethics, Harvard University, 2022
 * B.S. in Economics, The University of Connecticut, 2020
 
-<!--
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
--->
+* Spring 2025 - Present: Research Associate 
+  * Oxford Computational Political Science Group
+  * Oxford Institute Project on Moral Contagion
+  * Supervisor: Calvin Yixiang Cheng
+* 2023 - 2024: Frederic Bastiat Fellow
+  * Fellow at the Mercatus Center at George Mason University
+  * Attended four in-person political economy colloquia in Fairfax, VA
   
 Skills
 ======
