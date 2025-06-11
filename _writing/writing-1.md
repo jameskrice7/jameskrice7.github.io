@@ -1,11 +1,11 @@
 ---
-title: "Rising Sea Levels in Coastal Cities"
+title: "Studying Through Adversity"
 collection: writing
 type: "Article"
-permalink: /writing/rising-sea-levels
-venue: "Coastal Times"
+permalink: /writing/studying-through-adversity
+venue: "Students at LSE Blog"
 date: 2022-03-15
-link: https://example.com/rising-sea-levels
+link: https://blogs.lse.ac.uk/studentsatlse/2024/05/23/studying-through-adversity-how-equity-diversity-and-inclusion-works-at-lse/
 ---
 
-A piece discussing how cities adapt to increasing sea levels.
+A piece discussing my experiences at university dealing with neurodiversity.
