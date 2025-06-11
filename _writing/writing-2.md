@@ -1,11 +1,11 @@
 ---
-title: "Renewable Energy in Urban Areas"
+title: "The Smart Era"
 collection: writing
 type: "Article"
-permalink: /writing/renewable-energy-urban
-venue: "Green Future"
-date: 2023-07-30
-link: https://example.com/renewable-energy-urban
+permalink: /writing/the-smart-era
+venue: "Digitial Frontier"
+date: 2025-03-17
+link: https://digitalfrontier.com/articles/research-future
 ---
 
-An article exploring renewable energy options for city life.
+An article exploring Artificial Intelligence and research.
