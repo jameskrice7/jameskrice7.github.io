@@ -1,11 +1,11 @@
 ---
-title: "Community Farming in the 21st Century"
+title: "How Social Media and Online Communities Influence Climate Change Beliefs"
 collection: writing
 type: "Article"
-permalink: /writing/community-farming
-venue: "Local Harvest"
-date: 2021-11-05
-link: https://example.com/community-farming
+permalink: /writing/the-loop
+venue: "ECPR's The Loop Blog"
+date: 2022-03-25
+link: https://theloop.ecpr.eu/how-social-media-and-online-communities-influence-climate-change-beliefs/
 ---
 
-Coverage of community-supported agriculture initiatives.
+Coverage of political misinformation and the science of climate change.
