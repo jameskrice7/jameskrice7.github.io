@@ -63,9 +63,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: 
   {{ post.author | default: "Author" }}. ({{ post.date | date: "%Y" }}). 
-  "{{ post.title }}." <i>{{ post.venue }}</i>
-  {% if post.volume %} {{ post.volume }}{% if post.issue %}({{ post.issue }}){% endif %}{% endif %}
-  {% if post.pages %}, {{ post.pages }}{% endif %}.
+  "{{ post.title }}." <i>{{ post.venue }}</i>{% if post.volume %} {{ post.volume }}{% if post.issue %}({{ post.issue }}){% endif %}{% endif %}{% if post.pages %}, {{ post.pages }}{% endif %}.
   </p>
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">Download Paper</a></p>
