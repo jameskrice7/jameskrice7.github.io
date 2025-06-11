@@ -18,7 +18,9 @@ from geopy import Nominatim
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim()
+# geopy's Nominatim now requires a user_agent string. Without it, geopy
+# will raise an exception. Provide a basic one so the script runs.
+geocoder = Nominatim(user_agent="academicpages-talkmap")
 location_dict = {}
 location = ""
 permalink = ""
