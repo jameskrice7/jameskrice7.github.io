@@ -2,9 +2,9 @@
 title: "Ronald Coase Fellowship 2025-2026"
 layout: single
 type: "Fellowship"
-permalink: /training/training-8/
+permalink: /training/training-9/
 venue: "The Mercatus Center at George Mason University"
-date: 2025 - 2026
+date: 2025-06-01
 location: "Fairfax, VA (remote)"
 ---
 
