@@ -20,13 +20,16 @@ Education
 
 Work experience
 ======
+* December 2025 - June 2026: Teaching Assistant
+  * University College London (UCL) Department of Political Science
+    * Introduction to Quantitative Methods
+* July 2025 - August 2025: Teaching Assistant
+  * Essex Summer School in Social Science Data Analysis (TA for two courses)
+    * Introduction to Quantitative Text Analysis
+    * Quantitative Data Analysis and Statistical Graphics with R   
 * Spring 2025 - Present: Research Associate 
   * Oxford Computational Political Science Group
-  * Oxford Internet Institute (OII) Project on Moral Contagion
-  * Supervisor: Calvin Yixiang Cheng
-* 2023 - 2024: Frederic Bastiat Fellow
-  * Fellow at the Mercatus Center at George Mason University
-  * Attended four in-person political economy colloquia in Fairfax, VA
+  * Oxford Internet Institute (OII) and Oxford Department of Politics and International Relations (DPIR) Project on Moral Contagion
   
 Skills
 ======
