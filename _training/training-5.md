@@ -4,7 +4,7 @@ layout: single
 type: "Fellowship"
 permalink: /training/training-5/
 venue: "The Mercatus Center at George Mason University"
-date: 2023-06-01
+date: 2023-08-01
 location: "Fairfax, VA"
 ---
 
