@@ -1,5 +1,5 @@
 ---
-title: "Ronald Coase Fellowship"
+title: "Ronald Coase Fellowship 2025-2026"
 layout: single
 type: "Fellowship"
 permalink: /training/training-8/
