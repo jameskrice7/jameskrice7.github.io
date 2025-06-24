@@ -4,7 +4,7 @@ layout: single
 type: "Fellowship"
 permalink: /training/training-8/
 venue: "Intensive Training"
-date: 2025-08 - 2026-08
+date: 2025 - 2026
 location: "The Mercatus Center at George Mason University"
 ---
 
