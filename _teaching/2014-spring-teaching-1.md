@@ -1,11 +1,11 @@
 ---
-title: "Training"
-collection: training
-type: "Postgraduate course"
+title: "Teaching"
+collection: teaching
+type: "Postgraduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Max Planck Institute for Demographic Research"
-date: 2024-11-04
-location: "Virtual"
+venue: "Essex Summer School in Social Science Data Analysis"
+date: 2025-07-007
+location: "University of Essex"
 ---
 
-Undertook a weeklong course in empirical methods for demographic research - migration, population, settlement, etc. 
+Teaching Assistant for two courses: "Introduction to Quantitative Text Analysis" and "Quantitative Data Analysis and Statistical Graphics with R" 
