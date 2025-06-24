@@ -1,14 +1,8 @@
 ---
 layout: single
 title: "About Me"
----
-
-permalink: /
-title: "James K. Rice"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 This is the personal website of James Rice, a 1st year PhD student at the Univeristy of Essex. James holds two MSc degrees, one in 2024 from the London School of Economics in the Philosophy of the Social Sciences. Before this he was an MSc student at the University of Edinburgh completing a Master's thesis in the Philosophy, Science and Religion programme. James also holds a Postgraduate Certificate from Harvard Extension School in Philosophy and Ethics, where he studied classical historical works of Western analytic and continental philosophy. 
