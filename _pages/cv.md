@@ -27,7 +27,7 @@ Work experience
   * Essex Summer School in Social Science Data Analysis (TA for two courses)
     * Introduction to Quantitative Text Analysis
     * Quantitative Data Analysis and Statistical Graphics with R   
-* Spring 2025 - Present: Research Associate 
+* March 2025 - September 2025: Research Associate 
   * Oxford Computational Political Science Group
   * Oxford Internet Institute (OII) and Oxford Department of Politics and International Relations (DPIR) Project on Moral Contagion
   
