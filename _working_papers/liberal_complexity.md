@@ -3,7 +3,6 @@ title: "Climate Change and Complexity in Classical Liberal Theories of Developme
 collection: publications
 author: "James Rice"
 category: working_papers
-permalink: /_working_papers/liberal_complexity
 excerpt: "In this essay, I develop a complexity-based theory of social interaction within legal constraints, highlighting how rule-of-law institutions enable cooperation even in the face of intricate political and economic pressures based on inequities in mitigating and preparing for climate change.."
 date: 2025-02-01
 venue: 'Working Paper'
