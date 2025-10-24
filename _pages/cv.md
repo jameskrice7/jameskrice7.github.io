@@ -22,7 +22,8 @@ Work experience
 ======
 * December 2025 - June 2026: Teaching Assistant
   * University College London (UCL) Department of Political Science
-    * Introduction to Quantitative Methods
+    * Science, Scientific Discovery and Statistics (POLS0060)
+    * Introduction to Quantitative Research Methods (POLS0008)
 * July 2025 - August 2025: Teaching Assistant
   * Essex Summer School in Social Science Data Analysis (TA for two courses)
     * Introduction to Quantitative Text Analysis
