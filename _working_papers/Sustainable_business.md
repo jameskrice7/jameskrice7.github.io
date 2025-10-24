@@ -3,7 +3,6 @@ title: "Interdisciplinarity in International Sustainable Business"
 collection: publications
 author: "James Rice and Charles Mensah"
 category: working_papers
-permalink: /_working_papers/Sustainable_business
 excerpt: 'This essay proposes that international business - characterized most prominently by the multinational corporation (MNC) - is defined by the types of social problems it wishes to solve. It is also defined by the manner, strategy, or approach that it uses to define the problem landscape and technological or product-related solution space.'
 date: 2025-02-01
 venue: 'Working paper with Charles Mensah'

@@ -3,7 +3,6 @@ title: "Beyond Post-Truth: Projecting the Future Trajectory of Climate Misinform
 collection: working_papers
 author: "James Rice"
 category: working_papers
-permalink: /_working_papers/beyond_post_truth
 excerpt: "The paper forecasts how climate misinformation ecosystems may evolve and the implications for science communication."
 date: 2025-02-01
 venue: 'Under Review at <i>PLOS Climate</i>'

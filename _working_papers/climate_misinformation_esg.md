@@ -3,7 +3,6 @@ title: "Does Climate Misinformation Affect ESG Performance? Evidence from Social
 collection: working_papers
 author: "James Rice"
 category: working_papers
-permalink: /_working_papers/climate_misinformation_esg
 excerpt: "This paper combines social media analytics with corporate performance data to test how misinformation surrounding climate change influences firms' ESG outcomes."
 date: 2025-02-01
 venue: 'Under Review at <i>Ecological Economics</i>'

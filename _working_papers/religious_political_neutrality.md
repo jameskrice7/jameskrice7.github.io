@@ -3,7 +3,6 @@ title: "To What Extent Are Religious Political Actors Constrained by Political N
 collection: working_papers
 author: "James Rice"
 category: working_papers
-permalink: /_working_papers/religious_political_neutrality
 excerpt: "This article examines doctrinal debates about neutrality to assess how religious actors navigate political advocacy in pluralist democracies."
 date: 2025-02-01
 venue: 'Under Review at <i>Political Theology</i>'

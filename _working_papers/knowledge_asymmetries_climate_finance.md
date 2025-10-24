@@ -3,7 +3,6 @@ title: "Knowledge Asymmetries and Climate Finance: An Inquiry into Environmental
 collection: working_papers
 author: "James Rice"
 category: working_papers
-permalink: /_working_papers/knowledge_asymmetries_climate_finance
 excerpt: "I investigate how information gaps in climate finance markets erode legitimacy and generate environmental externalities."
 date: 2025-02-01
 venue: 'Under Review at <i>Cambridge Journal of Climate Research</i>'
