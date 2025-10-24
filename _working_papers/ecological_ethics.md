@@ -1,8 +1,8 @@
 ---
 title: "An Ecological Ethics for the Anthropocene: Environmental Justice and Religion"
-collection: publications
+collection: working_papers
 author: "James Rice"
-category: conferences
+category: working_papers
 excerpt: 'This essay examines the relationship between critical theological theories within
 avant-garde scholarship on religion as a social phenomenon and the equally, if not
 more, pressing revelations of climate scientists regarding the ecological crisis
