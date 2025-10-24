@@ -1,8 +1,8 @@
 ---
 title: "The Social Construction of Religious Political Morality"
-collection: publications
+collection: working_papers
 author: "James Rice"
-category: conferences
+category: working_papers
 excerpt: 'This is my LSE dissertation. It is currently a conference paper, as I prepare for publication.'
 date: 2024-12-04
 venue: 'Working Paper'
