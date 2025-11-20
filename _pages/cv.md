@@ -20,17 +20,22 @@ Education
 
 Work experience
 ======
-* December 2025 - June 2026: Teaching Assistant
+* December 2025 - Present: Teaching Assistant
   * University College London (UCL) Department of Political Science
-    * Science, Scientific Discovery and Statistics (POLS0060)
     * Introduction to Quantitative Research Methods (POLS0008)
+    * Science, Scientific Discovery and Statistics (POLS0060)
+* November 2025 - Present: Research Fellow
+  * Earth System Governance Project
+* August 2025 - Present: Ronald Coase Fellowship
+  * The Mercatus Center at George Mason University
 * July 2025 - August 2025: Teaching Assistant
   * Essex Summer School in Social Science Data Analysis (TA for two courses)
     * Introduction to Quantitative Text Analysis
-    * Quantitative Data Analysis and Statistical Graphics with R   
-* March 2025 - September 2025: Research Associate 
+    * Quantitative Data Analysis and Statistical Graphics with R
+* March 2025 - Present: Research Associate in Online Moral Contagion at Oxford Internet Institute (OII)
   * Oxford Computational Political Science Group
-  * Oxford Internet Institute (OII) and Oxford Department of Politics and International Relations (DPIR) Project on Moral Contagion
+* September 2023 - June 2024: Frédéric Bastiat Fellowship
+  * The Mercatus Center at George Mason University
   
 Skills
 ======
