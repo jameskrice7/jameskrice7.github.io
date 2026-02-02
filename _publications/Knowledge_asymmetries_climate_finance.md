@@ -4,6 +4,7 @@ collection: publications
 layout: single
 author: "James Rice"
 category: manuscripts
+excerpt: "In archetypal credit and capital markets, informational gaps can lead to the withdrawal of high-impact participants and incentivise excessive risk-taking by parties unaware of the risks they face. Within climate-related markets there is a similar trend: investors systematically underestimate tail risks associated with carbon-intensive assets—including risks from climate-caused natural events, which threaten those assets—while firms strategically under-disclose their exposure to these physical and transition risks."
 date: 2025-12-31
 volume: 2
 issue: 2
