@@ -11,7 +11,7 @@ issue: 2
 pages: "194-203"
 venue: 'Cambridge Journal of Climate Research'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: "https://diamond-oa.lib.cam.ac.uk/entities/publication/dd4dd96a-c2c6-4592-81ff-5076140977e8"
 citation: 'Rice, James. (2024). &quot;The Prospect of Just Emissions as an International Norm of Environmental Governance.&quot; <i>Cambridge Journal of Climate Research</i> 1(2), 194-203.'
 ---
 
