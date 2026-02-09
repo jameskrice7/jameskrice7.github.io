@@ -12,7 +12,7 @@
 locale                   : "en-US"
 title                    : "James Kennon Rice: A Digital Silouette"
 title_separator          : "-"
-name                     : &name "James Rice"
+name                     : &name "James Kennon Rice"
 description              : &description "PhD Candidate at the University of Essex"
 url                      : "https://jameskrice7.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""
