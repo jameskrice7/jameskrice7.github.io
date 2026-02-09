@@ -20,6 +20,8 @@ Education
 
 Work experience
 ======
+* January 2026 - Present: Affiliate
+  * Hayek Programme at the London School of Economics and Political Science
 * December 2025 - Present: Teaching Assistant
   * University College London (UCL) Department of Political Science
     * Introduction to Quantitative Research Methods (POLS0008)
