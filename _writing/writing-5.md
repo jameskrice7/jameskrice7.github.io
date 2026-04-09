@@ -4,7 +4,7 @@ collection: writing
 type: "Article"
 permalink: /writing/digital-resilience-in-the-age-of-synthetic-media
 venue: "ECPR's The Loop Blog"
-date: 2025-02-01
+date: 2026-02-26
 link: https://theloop.ecpr.eu/digital-resilience-in-the-age-of-synthetic-media/
 ---
 
