@@ -34,7 +34,7 @@ Work experience
   * Essex Summer School in Social Science Data Analysis (TA for two courses)
     * Introduction to Quantitative Text Analysis
     * Quantitative Data Analysis and Statistical Graphics with R
-* March 2025 - Present: Research Associate in Online Moral Contagion at Oxford Internet Institute (OII)
+* March 2025 - February 2026: Research Associate in Online Moral Contagion at Oxford Internet Institute (OII)
   * Oxford Computational Political Science Group
 * September 2023 - June 2024: Frédéric Bastiat Fellowship
   * The Mercatus Center at George Mason University
