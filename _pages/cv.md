@@ -20,13 +20,15 @@ Education
 
 Work experience
 ======
+* April 2026 - Present: Policy Fellowship
+  * Council for Countering Online Disinformation (CCOD) 
 * January 2026 - Present: Affiliate
   * Hayek Programme at the London School of Economics and Political Science
 * December 2025 - Present: Teaching Assistant
   * University College London (UCL) Department of Political Science
     * Introduction to Quantitative Research Methods (POLS0008)
     * Science, Scientific Discovery and Statistics (POLS0060)
-* November 2025 - Present: Research Fellow
+* November 2025 - Present: Research Fellowship
   * Earth System Governance Project
 * August 2025 - Present: Ronald Coase Fellowship
   * The Mercatus Center at George Mason University
