@@ -11,7 +11,7 @@ issue: 5
 pages: "e0000916"
 venue: "PLOS Climate"
 paperurl: "https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000916"
-citation: 'Rice JK (2026) "Beyond post-truth: Projecting the future trajectory of climate misinformation." <i>PLOS Climate</i> 5(5): e0000916. https://doi.org/10.1371/journal.pclm.0000916'
+citation: 'Rice, James. (2026) "Beyond post-truth: Projecting the future trajectory of climate misinformation." <i>PLOS Climate</i> 5(5): e0000916. https://doi.org/10.1371/journal.pclm.0000916'
 ---
 
 Climate misinformation represents one of the most significant barriers to effective climate action in the 21st century. Building upon Yotam Ophir’s comprehensive framework in *Misinformation & Society*, this essay examines the evolving landscape of climate misinformation and projects its future trajectory. Ophir’s interdisciplinary approach, which integrates historical, psychological, and technological perspectives, provides crucial insights into how climate misinformation operates within broader systems of information disorder.
