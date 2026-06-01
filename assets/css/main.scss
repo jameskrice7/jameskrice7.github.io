@@ -77,3 +77,102 @@
   }
 }
 
+.teaching-hero {
+  margin-bottom: 2rem;
+}
+
+.teaching-hero-label {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #666;
+  margin-bottom: 0.35rem;
+}
+
+.teaching-course-grid {
+  display: grid;
+  gap: 2.5rem;
+}
+
+.teaching-course-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.9rem;
+  padding: 1.5rem 1.75rem;
+  background: #fff;
+}
+
+.teaching-course-card h3 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.teaching-card-kicker {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 0.35rem;
+}
+
+.teaching-materials {
+  margin-top: 1rem;
+}
+
+.teaching-materials-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.teaching-materials-header h4 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.teaching-materials-count {
+  font-size: 0.85rem;
+  color: #555;
+  background: #f4f4f4;
+  border-radius: 999px;
+  padding: 0.2rem 0.65rem;
+  white-space: nowrap;
+}
+
+.teaching-materials-summary {
+  margin: 0.5rem 0 1rem;
+  color: #555;
+}
+
+.teaching-week-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 0.75rem;
+}
+
+.teaching-week-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.6rem;
+  padding: 0.6rem 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.teaching-week-card--available {
+  border-color: #c9d7ff;
+  background: #f6f8ff;
+}
+
+.teaching-week-label {
+  font-weight: 600;
+}
+
+.teaching-week-link,
+.teaching-week-status {
+  font-size: 0.85rem;
+}
+
+.teaching-week-status {
+  color: #666;
+}

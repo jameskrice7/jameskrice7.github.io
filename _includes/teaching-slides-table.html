@@ -6,13 +6,10 @@
 
 <div class="teaching-materials" id="{{ course_slug }}-slides">
   <div class="teaching-materials-header">
-    <div>
-      <p class="teaching-materials-eyebrow">Seminar materials</p>
-      <h4>{{ course_label }} slides</h4>
-    </div>
+    <h4>Seminar slides</h4>
     <span class="teaching-materials-count">{{ weeks }} weeks</span>
   </div>
-  <p class="teaching-materials-summary">Browse weekly seminar slides below. Available materials open as downloads; upcoming weeks remain marked until slides are posted.</p>
+  <p class="teaching-materials-summary">Weekly seminar slides appear below. Posted weeks open as downloads; upcoming weeks stay marked until slides are posted.</p>
   <div class="teaching-week-grid" aria-label="Weekly seminar slides for {{ course_label }}">
     {% for week in (1..weeks) %}
       {% assign week_number = week | prepend: '00' | slice: -2, 2 %}
