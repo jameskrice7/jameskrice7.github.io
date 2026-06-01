@@ -33,7 +33,7 @@
 
 <style>
   .teaching-intro,
-  .teaching-note {
+  .teaching-materials-summary {
     color: #4a5568;
   }
 
@@ -74,7 +74,8 @@
   }
 
   .teaching-card-kicker,
-  .teaching-hero-label {
+  .teaching-hero-label,
+  .teaching-materials-eyebrow {
     margin: 0 0 0.4rem;
     color: #2563eb;
     font-size: 0.78rem;
@@ -85,6 +86,28 @@
 
   .teaching-card-meta {
     color: #4a5568;
+  }
+
+  .teaching-card-courses {
+    border-top: 1px solid #e2e8f0;
+    margin-top: 1rem;
+    padding-top: 1rem;
+  }
+
+  .teaching-card-section-title {
+    color: #334155;
+    font-size: 0.85rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+  }
+
+  .teaching-card-courses ul {
+    margin: 0;
+    padding-left: 1.1rem;
+  }
+
+  .teaching-card-courses li {
+    margin-bottom: 0.45rem;
   }
 
   .teaching-card-button,
@@ -114,8 +137,32 @@
     background: #f8fafc;
   }
 
-  .teaching-materials code {
-    white-space: normal;
+  .teaching-materials-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .teaching-materials-header h4 {
+    margin-bottom: 0;
+  }
+
+  .teaching-materials-count,
+  .teaching-week-status {
+    border-radius: 999px;
+    background: #e2e8f0;
+    color: #475569;
+    font-size: 0.78rem;
+    font-weight: 700;
+    line-height: 1;
+    padding: 0.45rem 0.65rem;
+    white-space: nowrap;
+  }
+
+  .teaching-materials-summary {
+    margin-bottom: 0;
   }
 
   .teaching-week-grid {
@@ -130,21 +177,29 @@
     border-radius: 12px;
     background: #ffffff;
     padding: 0.8rem;
+    transition: transform 160ms ease, box-shadow 160ms ease;
+  }
+
+  .teaching-week-card--available,
+  .teaching-week-card:hover {
+    box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
+    transform: translateY(-1px);
+  }
+
+  .teaching-week-icon {
+    display: block;
+    margin-bottom: 0.35rem;
+    min-height: 1.2rem;
   }
 
   .teaching-week-label {
     display: block;
-    margin-bottom: 0.4rem;
+    margin-bottom: 0.55rem;
     font-weight: 700;
   }
 
   .teaching-week-link {
     padding: 0.45rem 0.7rem;
     font-size: 0.78rem;
-  }
-
-  .teaching-week-empty {
-    color: #64748b;
-    font-size: 0.82rem;
   }
 </style>
