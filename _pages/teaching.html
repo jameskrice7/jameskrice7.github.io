@@ -7,6 +7,28 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<p class="teaching-intro">Teaching assistant roles, course pages, and seminar-slide hubs are organized below. Select a role to open its course dashboard and weekly materials plan.</p>
+
+<div class="teaching-role-grid">
+{% assign teaching_roles = site.teaching | sort: 'date' | reverse %}
+{% for post in teaching_roles %}
+  <article class="teaching-role-card">
+    <p class="teaching-card-kicker">{{ post.type }}</p>
+    <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="teaching-card-meta"><strong>{{ post.venue }}</strong><br>{{ post.location }} · {{ post.date | date: "%Y" }}</p>
+    {% if post.courses %}
+      <div class="teaching-card-courses">
+        <p class="teaching-card-section-title">Courses taught</p>
+        <ul>
+          {% for course in post.courses %}
+            <li><strong>{{ course.term }}</strong> — {{ course.title }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% elsif post.excerpt %}
+      <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+    {% endif %}
+    <a class="teaching-card-button" href="{{ base_path }}{{ post.url }}">View courses and materials</a>
+  </article>
 {% endfor %}
+</div>
