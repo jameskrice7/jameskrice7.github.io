@@ -1,4 +1,5 @@
-{% assign weeks = include.weeks | default: 10 %}
+{% include base_path %}
+{% assign weeks = include.weeks | default: 10 | plus: 0 %}
 {% assign course_slug = include.course_slug %}
 {% assign course_label = include.course_label | default: "Course" %}
 {% assign materials_root = "/files/teaching/" | append: course_slug | append: "/seminar-materials/slides/" %}
