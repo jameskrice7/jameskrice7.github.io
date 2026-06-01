@@ -5,7 +5,6 @@
 
 <div class="teaching-materials" id="{{ course_slug }}-slides">
   <h4>{{ course_label }} seminar slides</h4>
-  <p class="teaching-note">Upload one PDF per week using this pattern: <code>{{ materials_root }}week-01.pdf</code>, <code>week-02.pdf</code>, and so on.</p>
   <div class="teaching-week-grid" aria-label="Weekly seminar slides for {{ course_label }}">
     {% for week in (1..weeks) %}
       {% assign week_number = week | prepend: '00' | slice: -2, 2 %}
