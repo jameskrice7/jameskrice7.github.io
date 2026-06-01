@@ -30,3 +30,121 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <!-- end custom head snippets -->
+
+<style>
+  .teaching-intro,
+  .teaching-note {
+    color: #4a5568;
+  }
+
+  .teaching-role-grid,
+  .teaching-course-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1.25rem;
+    margin: 1.5rem 0 2rem;
+  }
+
+  .teaching-role-card,
+  .teaching-course-card,
+  .teaching-hero,
+  .teaching-materials {
+    border: 1px solid #d9e2ec;
+    border-radius: 14px;
+    background: #ffffff;
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  }
+
+  .teaching-role-card,
+  .teaching-course-card,
+  .teaching-hero {
+    padding: 1.25rem;
+  }
+
+  .teaching-hero {
+    background: linear-gradient(135deg, #f7fbff 0%, #edf5ff 100%);
+    margin-bottom: 1.5rem;
+  }
+
+  .teaching-hero h2,
+  .teaching-role-card h2,
+  .teaching-course-card h3,
+  .teaching-materials h4 {
+    margin-top: 0;
+  }
+
+  .teaching-card-kicker,
+  .teaching-hero-label {
+    margin: 0 0 0.4rem;
+    color: #2563eb;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .teaching-card-meta {
+    color: #4a5568;
+  }
+
+  .teaching-card-button,
+  .teaching-week-link {
+    display: inline-block;
+    border-radius: 999px;
+    background: #2563eb;
+    color: #ffffff !important;
+    font-weight: 700;
+    line-height: 1;
+    text-decoration: none;
+  }
+
+  .teaching-card-button {
+    margin-top: 0.5rem;
+    padding: 0.75rem 1rem;
+  }
+
+  .teaching-card-button:hover,
+  .teaching-week-link:hover {
+    background: #1d4ed8;
+  }
+
+  .teaching-materials {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: #f8fafc;
+  }
+
+  .teaching-materials code {
+    white-space: normal;
+  }
+
+  .teaching-week-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 0.75rem;
+    margin-top: 1rem;
+  }
+
+  .teaching-week-card {
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    background: #ffffff;
+    padding: 0.8rem;
+  }
+
+  .teaching-week-label {
+    display: block;
+    margin-bottom: 0.4rem;
+    font-weight: 700;
+  }
+
+  .teaching-week-link {
+    padding: 0.45rem 0.7rem;
+    font-size: 0.78rem;
+  }
+
+  .teaching-week-empty {
+    color: #64748b;
+    font-size: 0.82rem;
+  }
+</style>
