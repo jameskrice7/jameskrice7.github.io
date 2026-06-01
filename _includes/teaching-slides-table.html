@@ -22,7 +22,7 @@
         <span class="teaching-week-icon" aria-hidden="true">{% if slide_file %}📄{% else %}◇{% endif %}</span>
         <span class="teaching-week-label">Week {{ week_number }}</span>
         {% if slide_file %}
-          <a class="teaching-week-link" href="{{ slide_path }}">Download slides</a>
+          <a class="teaching-week-link" href="{{ slide_path | prepend: base_path }}">Download slides</a>
         {% else %}
           <span class="teaching-week-status">Coming soon</span>
         {% endif %}
