@@ -4,21 +4,14 @@
 {% assign materials_root = "/files/teaching/" | append: course_slug | append: "/seminar-materials/slides/" %}
 
 <div class="teaching-materials" id="{{ course_slug }}-slides">
-  <div class="teaching-materials-header">
-    <div>
-      <p class="teaching-materials-eyebrow">Seminar materials</p>
-      <h4>{{ course_label }} slides</h4>
-    </div>
-    <span class="teaching-materials-count">{{ weeks }} weeks</span>
-  </div>
-  <p class="teaching-materials-summary">Browse weekly seminar slides below. Available materials open as downloads; upcoming weeks remain marked until slides are posted.</p>
+  <h4>{{ course_label }} seminar slides</h4>
+  <p class="teaching-note">Upload one PDF per week using this pattern: <code>{{ materials_root }}week-01.pdf</code>, <code>week-02.pdf</code>, and so on.</p>
   <div class="teaching-week-grid" aria-label="Weekly seminar slides for {{ course_label }}">
     {% for week in (1..weeks) %}
       {% assign week_number = week | prepend: '00' | slice: -2, 2 %}
       {% assign slide_path = materials_root | append: "week-" | append: week_number | append: ".pdf" %}
       {% assign slide_file = site.static_files | where: "path", slide_path | first %}
-      <div class="teaching-week-card{% if slide_file %} teaching-week-card--available{% endif %}">
-        <span class="teaching-week-icon" aria-hidden="true">{% if slide_file %}📄{% else %}◇{% endif %}</span>
+      <div class="teaching-week-card">
         <span class="teaching-week-label">Week {{ week_number }}</span>
         {% if slide_file %}
           <a class="teaching-week-link" href="{{ slide_path }}">Download slides</a>
