@@ -26,8 +26,13 @@ Work experience
   * Hayek Programme at the London School of Economics and Political Science
 * December 2025 - Present: Teaching Assistant
   * University College London (UCL) Department of Political Science
-    * Introduction to Quantitative Research Methods (POLS0008)
-    * Science, Scientific Discovery and Statistics (POLS0060)
+    * Spring 2027
+      * Data Analysis (POLS0010) 
+    * Autumn 2026
+      * Ethics and Public Policy (POLS0064)
+    * Spring 2026
+      * Introduction to Quantitative Research Methods (POLS0008)
+      * Science, Scientific Discovery and Statistics (POLS0060)
 * November 2025 - Present: Research Fellowship
   * Earth System Governance Project
 * August 2025 - Present: Ronald Coase Fellowship
