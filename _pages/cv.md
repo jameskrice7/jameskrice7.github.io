@@ -25,7 +25,7 @@ Work experience
 * January 2026 - Present: Affiliate
   * Hayek Programme at the London School of Economics and Political Science
 * December 2025 - Present: Teaching Assistant
-  * University College London (UCL) Department of Political Science
+  * University College London (UCL) Department of Political Science and School of Public Policy
     * Spring 2027
       * Data Analysis (POLS0010) 
     * Autumn 2026
