@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p class="teaching-intro">Teaching assistant roles, course pages, and seminar-slide hubs are organized below. Select a role to open its course dashboard and weekly materials plan.</p>
+<p class="teaching-intro">Teaching assistant roles, course pages, and seminar-slide hubs are organized below.</p>
 
 <div class="teaching-role-grid">
 {% assign teaching_roles = site.teaching | sort: 'date' | reverse %}
@@ -18,14 +18,14 @@ author_profile: true
     <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
     <p class="teaching-card-meta"><strong>{{ post.venue }}</strong><br>{{ post.location }} · {{ post.date | date: "%Y" }}</p>
 
-    {% if post.title contains "University College London" or post.venue contains "UCL" or post.venue contains "University College London" %}
+    {% if post.venue contains "UCL" %}
       <ul class="teaching-course-list">
         <li><strong>Spring 2027:</strong> POLS0010: Data Analysis</li>
         <li><strong>Autumn 2026:</strong> POLS0064: Ethics and Public Policy</li>
         <li><strong>Spring 2026:</strong> POLS0008: Introduction to Quantitative Research Methods</li>
         <li><strong>Spring 2026:</strong> POLS0060: Science, Scientific Discovery and Statistics</li>
       </ul>
-    {% elsif post.title contains "Essex Summer School" or post.venue contains "Essex Summer School" or post.venue contains "University of Essex" %}
+    {% elsif post.venue contains "ESS" %}
       <ul class="teaching-course-list">
         <li><strong>Summer 2025:</strong> Introduction to Quantitative Text Analysis</li>
         <li><strong>Summer 2025:</strong> Quantitative Data Analysis and Statistical Graphics with R</li>
@@ -40,3 +40,4 @@ author_profile: true
 {% endfor %}
 </div>
 ```
+
