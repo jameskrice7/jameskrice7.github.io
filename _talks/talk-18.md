@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-18
 venue: "HEROES (Essex Gov internal seminar)"
+location: "Colchester, United Kingdom"
 date: 2025-01-15
 ---
 
