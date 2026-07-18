@@ -4,7 +4,8 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-12
 venue: "ECPR General Conference"
-date: 2025-08-01
+location: "Thessaloniki, Greece"
+date: 2025-08-28
 ---
 
 Presented research on the boundaries of political neutrality for religious actors during the ECPR General Conference.
