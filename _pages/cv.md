@@ -20,6 +20,13 @@ Education
 
 Work experience
 ======
+* August 2026 - Present: Mercatus Fellowship
+  * The Mercatus Center at George Mason University
+    * Applied Mainline Political Economy Track
+* July 2026: Teaching Assistant
+  * Essex Summer School in Social Science Data Analysis (TA for two courses in 2026)
+    * Applied Causal Inference with Observational Data
+    * Causal Inference and Experiments in the Social Sciences
 * April 2026 - Present: Policy Fellowship
   * Council for Countering Online Disinformation (CCOD) 
 * January 2026 - Present: Affiliate
@@ -35,10 +42,10 @@ Work experience
       * Science, Scientific Discovery and Statistics (POLS0060)
 * November 2025 - Present: Research Fellowship
   * Earth System Governance Project
-* August 2025 - Present: Ronald Coase Fellowship
+* August 2025 - August 2026: Ronald Coase Fellowship
   * The Mercatus Center at George Mason University
 * July 2025 - August 2025: Teaching Assistant
-  * Essex Summer School in Social Science Data Analysis (TA for two courses)
+  * Essex Summer School in Social Science Data Analysis (TA for two courses in 2025)
     * Introduction to Quantitative Text Analysis
     * Quantitative Data Analysis and Statistical Graphics with R
 * March 2025 - February 2026: Research Associate in Online Moral Contagion at Oxford Internet Institute (OII)
