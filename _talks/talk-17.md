@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-17
 venue: "Science & Religion Forum General Conference"
+location: "Online"
 date: 2024-10-01
 ---
 
