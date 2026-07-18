@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Panel"
 permalink: /talks/talk-31
 venue: "ISA Virtual Conference"
-date: 2026-07-01
+date: 2026-07-31
 location: "Online"
 excerpt: "Reflected on the transition from doctoral training to academic leadership, emphasizing research identity, professional development, mentoring, and institutional contribution."
 ---
