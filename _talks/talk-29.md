@@ -4,6 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk-29
 venue: "SASE General Conference"
+location: "Bordeaux, France"
 date: 2026-07-04
 excerpt: "Developed the argument that climate misinformation can distort information environments and intensify asymmetries relevant to economic governance and sustainable markets."
 ---
