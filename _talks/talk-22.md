@@ -3,7 +3,8 @@ title: "Does Climate Misinformation Exacerbate Information Asymmetry?"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-22
-venue: "JARGON (Essex internal seminar)"
+venue: "JARGON (University of Essex ISER Seminar)"
+location: "Colchester, United Kingdom"
 date: 2025-12-01
 ---
 
