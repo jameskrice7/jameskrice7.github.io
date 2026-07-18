@@ -3,7 +3,8 @@ title: "Does Climate Misinformation Affect ESG Performance? Evidence from Social
 collection: talks
 type: "Talk"
 permalink: /talks/talk-20
-venue: "EBS Research Conference (Essex)"
+venue: "EBS Research Conference (University of Essex Business School)"
+location: "Online"
 date: 2025-09-01
 ---
 
