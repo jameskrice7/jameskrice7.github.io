@@ -3,7 +3,8 @@ title: "Cutting Edge Artificial Intelligence Research: Attention, Transformers, 
 collection: talks
 type: "Talk"
 permalink: /talks/talk-24
-venue: "HEROES (Essex Internal Seminar)"
+venue: "HEROES (University of Essex Department of Government Seminar)"
+location: "Colchester, United Kingdom"
 date: 2025-11-19
 ---
 
