@@ -3,7 +3,8 @@ title: "International Norms of Environmental Governance"
 collection: talks
 type: "Talk"
 permalink: /talks/talk-15
-venue: "Conflict/IR Seminar (Essex)"
+venue: "Conflict/IR Seminar"
+location: "Colchester, United Kingdom"
 date: 2024-11-01
 ---
 
