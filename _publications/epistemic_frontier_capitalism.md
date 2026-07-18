@@ -5,7 +5,7 @@ layout: single
 author: "James Rice"
 category: manuscripts
 excerpt: "This article argues that contemporary capitalism has entered a phase in which outcomes are increasingly shaped by the privatization and strategic destabilization of the epistemic commons through frontier artificial intelligence and platform-mediated misinformation."
-date: 2026-07-01
+date: 2026-07-17
 volume: 1
 issue: 3
 pages: "177-187"
