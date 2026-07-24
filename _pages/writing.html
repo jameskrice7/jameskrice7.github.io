@@ -5,6 +5,37 @@ permalink: /writing/
 author_profile: true
 ---
 
+<section class="writing-portfolio" aria-labelledby="writing-portfolio-title">
+  <div class="writing-portfolio__header">
+    <div>
+      <p class="writing-portfolio__eyebrow">Featured portfolio</p>
+      <h2 id="writing-portfolio-title">James Rice — Writing Portfolio, Summer 2026</h2>
+      <p class="writing-portfolio__intro">
+        A curated selection of research, commentary, and public-facing writing.
+      </p>
+    </div>
+    <a class="btn btn--primary writing-portfolio__download" href="{{ '/files/james-rice-writing-portfolio-summer-2026.pdf' | relative_url }}" download>
+      <i class="fas fa-download" aria-hidden="true"></i> Download PDF
+    </a>
+  </div>
+
+  <div class="writing-portfolio__viewer">
+    <object
+      data="{{ '/files/james-rice-writing-portfolio-summer-2026.pdf' | relative_url }}#view=FitH"
+      type="application/pdf"
+      aria-label="James Rice writing portfolio, Summer 2026">
+      <p>
+        Your browser cannot display the embedded portfolio.
+        <a href="{{ '/files/james-rice-writing-portfolio-summer-2026.pdf' | relative_url }}">Open the PDF in a new tab</a>.
+      </p>
+    </object>
+  </div>
+  <p class="writing-portfolio__open">
+    Prefer a full-screen view?
+    <a href="{{ '/files/james-rice-writing-portfolio-summer-2026.pdf' | relative_url }}" target="_blank" rel="noopener">Open the portfolio in a new tab</a>.
+  </p>
+</section>
+
 {% for post in site.writing reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
