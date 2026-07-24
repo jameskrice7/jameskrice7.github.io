@@ -35,9 +35,32 @@ author_profile: true
   </p>
 </section>
 
-{% for post in site.writing reversed %}
-  {% include archive-single-talk.html %}
-  {% if post.title == "The Smart Era" %}
-    {% include smart-era-pdf.html %}
-  {% endif %}
-{% endfor %}
+<section class="writing-portfolio writing-portfolio--article" aria-labelledby="smart-era-pdf-title">
+  <div class="writing-portfolio__header">
+    <div>
+      <p class="writing-portfolio__eyebrow">Featured article</p>
+      <h2 id="smart-era-pdf-title"><a href="https://digitalfrontier.com/articles/research-future">“The Smart Era”</a></h2>
+      <p class="writing-portfolio__intro">
+        My Essay in Digital Frontier Magazine's March 2025 Issue
+      </p>
+    </div>
+    <a class="btn btn--primary writing-portfolio__download" href="{{ '/files/james-rice-the-smart-era-portfolio.pdf' | relative_url }}" download>
+      <i class="fas fa-download" aria-hidden="true"></i> Download PDF
+    </a>
+  </div>
+
+  <div class="writing-portfolio__viewer">
+    <iframe
+      src="{{ '/files/james-rice-the-smart-era-portfolio.pdf' | relative_url }}#view=FitH&amp;zoom=page-width"
+      title="The Smart Era by James Rice"
+      loading="lazy">
+    </iframe>
+  </div>
+  <p class="writing-portfolio__open">
+    Prefer a full-screen view?
+    <a href="{{ '/files/james-rice-the-smart-era-portfolio.pdf' | relative_url }}" target="_blank" rel="noopener">Open the article in a new tab</a>.
+  </p>
+  <p class="writing-portfolio__source">
+    Originally published by <cite>Digital Frontier</cite>.
+  </p>
+</section>
