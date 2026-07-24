@@ -20,24 +20,20 @@ author_profile: true
   </div>
 
   <div class="writing-portfolio__viewer">
-    <object
-      data="{{ '/files/james-rice-writing-portfolio-summer-2026.pdf' | relative_url }}#view=FitH"
-      type="application/pdf"
-      aria-label="James Rice writing portfolio, Summer 2026">
-      <p>
-        Your browser cannot display the embedded portfolio.
-        <a href="{{ '/files/james-rice-writing-portfolio-summer-2026.pdf' | relative_url }}" target="_blank" rel="noopener">Open the PDF in a new tab</a>.
-      </p>
-    </object>
+    <iframe
+      src="{{ '/files/james-rice-writing-portfolio-summer-2026.pdf' | relative_url }}#view=FitH&amp;zoom=page-width"
+      title="James Rice writing portfolio, Summer 2026"
+      loading="lazy">
+    </iframe>
   </div>
   <p class="writing-portfolio__open">
     Prefer a full-screen view?
     <a href="{{ '/files/james-rice-writing-portfolio-summer-2026.pdf' | relative_url }}" target="_blank" rel="noopener">Open the portfolio in a new tab</a>.
   </p>
+  <p class="writing-portfolio__source">
+    From <cite>Journal</cite> by Chauvet Couture. Editor: Zachary Costello.
+  </p>
 </section>
-<p class="writing-portfolio__source">
-  From <cite>Journal</cite> by Chauvet Couture. Editor: Zachary Costello.
-</p>
 
 {% for post in site.writing reversed %}
   {% include archive-single-talk.html %}

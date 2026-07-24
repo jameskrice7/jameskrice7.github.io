@@ -188,6 +188,10 @@
   box-shadow: 0 0.5rem 1.5rem rgba(35, 55, 70, 0.1);
 }
 
+.writing-portfolio--article {
+  margin-top: 1.75rem;
+}
+
 .writing-portfolio__header {
   display: flex;
   align-items: flex-start;
@@ -230,15 +234,11 @@
   background: #eef1f3;
 }
 
-.writing-portfolio__viewer object {
+.writing-portfolio__viewer iframe {
   display: block;
   width: 100%;
   height: 100%;
-}
-
-.writing-portfolio__viewer p {
-  padding: 2rem;
-  text-align: center;
+  border: 0;
 }
 
 .writing-portfolio__open {
@@ -249,10 +249,11 @@
 }
 
 .writing-portfolio__source {
-  margin: -1.9rem 0 2.75rem;
+  margin: 0.45rem 0 0;
   color: #606b73;
   font-size: 0.78rem;
   font-style: italic;
+  text-align: right;
 }
 @media screen and (max-width: 600px) {
   .writing-portfolio {
@@ -273,6 +274,10 @@
   }
 
   .writing-portfolio__open {
+    text-align: left;
+  }
+
+  .writing-portfolio__source {
     text-align: left;
   }
 }
