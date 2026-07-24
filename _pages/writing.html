@@ -37,4 +37,7 @@ author_profile: true
 
 {% for post in site.writing reversed %}
   {% include archive-single-talk.html %}
+  {% if post.title == "The Smart Era" %}
+    {% include smart-era-pdf.html %}
+  {% endif %}
 {% endfor %}
