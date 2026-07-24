@@ -35,6 +35,11 @@ author_profile: true
   </p>
 </section>
 
+{% assign writing_entries = site.writing | sort: "date" | reverse %}
+{% for post in writing_entries %}
+  {% include archive-single.html %}
+
+  {% if post.title == "How Social Media and Online Communities Influence Climate Change Beliefs" %}
 <section class="writing-portfolio writing-portfolio--article" aria-labelledby="smart-era-pdf-title">
   <div class="writing-portfolio__header">
     <div>
@@ -64,3 +69,5 @@ author_profile: true
     Originally published by <cite>Digital Frontier</cite>.
   </p>
 </section>
+  {% endif %}
+{% endfor %}
