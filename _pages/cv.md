@@ -20,6 +20,10 @@ Education
 
 Work experience
 ======
+* October 2026 - Present: Fixed-Term Lecturer in Computational Social Science
+  * Department of Sociology and Criminology at the University of Essex
+    * Autumn 2026
+      * Introduction to Social Data Science (SC207, Instructor of Record)
 * August 2026 - Present: Mercatus Fellowship
   * The Mercatus Center at George Mason University
     * Applied Mainline Political Economy Track
