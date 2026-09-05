@@ -31,7 +31,10 @@ Work experience
   * Essex Summer School in Social Science Data Analysis (TA for two courses in 2026)
     * Applied Causal Inference with Observational Data
     * Causal Inference and Experiments in the Social Sciences
-* April 2026 - Present: Policy Fellowship
+* April 2026 - September 2026: Research Assistant
+  * Department of Government, Univeristy of Essex
+    * RA for Tobias Bohmelt's project on global environmental attitudes
+* April 2026 - September 2026: Policy Fellowship
   * Council for Countering Online Disinformation (CCOD) 
 * January 2026 - Present: Affiliate
   * Hayek Programme at the London School of Economics and Political Science
