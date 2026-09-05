@@ -32,7 +32,7 @@ Work experience
     * Applied Causal Inference with Observational Data
     * Causal Inference and Experiments in the Social Sciences
 * April 2026 - September 2026: Research Assistant
-  * Department of Government, Univeristy of Essex
+  * Department of Government, University of Essex
     * RA for Tobias Bohmelt's project on global environmental attitudes
 * April 2026 - September 2026: Policy Fellowship
   * Council for Countering Online Disinformation (CCOD) 
