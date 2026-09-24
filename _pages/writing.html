@@ -70,4 +70,36 @@ author_profile: true
   </p>
 </section>
   {% endif %}
+
+  {% if post.title == "What is Financial Disinformation? A London Perspective" %}
+<section class="writing-portfolio writing-portfolio--article" aria-labelledby="ccod-financial-disinfo-pdf-title">
+  <div class="writing-portfolio__header">
+    <div>
+      <p class="writing-portfolio__eyebrow">Policy report</p>
+      <h2 id="ccod-financial-disinfo-pdf-title"><a href="https://ccod.co.uk/activity#reports-what-is-financial-disinformation-a-london-perspective">“What is Financial Disinformation? A London Perspective”</a></h2>
+      <p class="writing-portfolio__intro">
+        My explainer for the Council for Countering Online Disinformation, written as a CCOD Policy Fellow.
+      </p>
+    </div>
+    <a class="btn btn--primary writing-portfolio__download" href="{{ '/files/james-rice-what-is-financial-disinformation-ccod.pdf' | relative_url }}" download>
+      <i class="fas fa-download" aria-hidden="true"></i> Download PDF
+    </a>
+  </div>
+
+  <div class="writing-portfolio__viewer">
+    <iframe
+      src="{{ '/files/james-rice-what-is-financial-disinformation-ccod.pdf' | relative_url }}#view=FitH&amp;zoom=page-width"
+      title="What is Financial Disinformation? A London Perspective by James Rice"
+      loading="lazy">
+    </iframe>
+  </div>
+  <p class="writing-portfolio__open">
+    Prefer a full-screen view?
+    <a href="{{ '/files/james-rice-what-is-financial-disinformation-ccod.pdf' | relative_url }}" target="_blank" rel="noopener">Open the report in a new tab</a>.
+  </p>
+  <p class="writing-portfolio__source">
+    Originally published by the <a href="https://ccod.co.uk/"><cite>Council for Countering Online Disinformation</cite></a> (CCOD).
+  </p>
+</section>
+  {% endif %}
 {% endfor %}
