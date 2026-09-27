@@ -1,97 +1,18 @@
 ---
 title: Writing
 lang: en-GB
+css: writing.css
 ---
 
 Essays, public scholarship, and policy writing.
 
 ```{=html}
-<div class="work-list"><article class="work-card"><p class="eyebrow">2026 · Council for Countering Online Disinformation (CCOD)</p><h3><a href="/writing/what-is-financial-disinformation">What is Financial Disinformation? A London Perspective</a></h3><p></p><a class="text-link" href="/writing/what-is-financial-disinformation">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · ECPR's The Loop Blog</p><h3><a href="/writing/digital-resilience-in-the-age-of-synthetic-media">Digital Resilience in the Age of Synthetic Media</a></h3><p></p><a class="text-link" href="/writing/digital-resilience-in-the-age-of-synthetic-media">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · ECPR's The Loop Blog</p><h3><a href="/writing/the-loop">How Social Media and Online Communities Influence Climate Change Beliefs</a></h3><p></p><a class="text-link" href="/writing/the-loop">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · LSE Religion and Global Society Blog</p><h3><a href="/writing/ecological-ethics">An Ecological Ethics for the Anthropocene: A Call to Reimagine Religion and Nature</a></h3><p></p><a class="text-link" href="/writing/ecological-ethics">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · Students at LSE Blog</p><h3><a href="/writing/studying-through-adversity">Studying Through Adversity: How Equity, Diversity and Inclusion Works at LSE</a></h3><p></p><a class="text-link" href="/writing/studying-through-adversity">Read more <span aria-hidden="true">↗</span></a></article></div>
-```
-
-```{=html}
-<section class="writing-portfolio" aria-labelledby="writing-portfolio-title">
-  <div class="writing-portfolio__header">
-    <div>
-      <p class="writing-portfolio__eyebrow">Featured portfolio</p>
-      <h2 id="writing-portfolio-title">Chauvet Couture's Journal</h2>
-      <p class="writing-portfolio__intro">
-        My essays in the Summer 2026 Journal Issue.
-      </p>
-    </div>
-    <a class="btn btn--primary writing-portfolio__download" href="/files/james-rice-writing-portfolio-summer-2026.pdf" download>
+<div class="work-list writing-list">
+<article class="work-card" id="ccod-financial-disinfo-pdf-title"><p class="eyebrow">2026 · Council for Countering Online Disinformation (CCOD)</p><h3><a href="/writing/what-is-financial-disinformation">What is Financial Disinformation? A London Perspective</a></h3><p></p><a class="text-link" href="/writing/what-is-financial-disinformation">Read more <span aria-hidden="true">↗</span></a>
+<div class="writing-portfolio__header"><p><a class="btn btn--primary writing-portfolio__download" href="/files/james-rice-what-is-financial-disinformation-ccod.pdf" download>
       <i class="fas fa-download" aria-hidden="true"></i> Download PDF
-    </a>
-  </div>
-
-  <div class="writing-portfolio__viewer">
-    <iframe
-      src="/files/james-rice-writing-portfolio-summer-2026.pdf#view=FitH&amp;zoom=page-width"
-      title="James Rice writing portfolio, Summer 2026"
-      loading="lazy">
-    </iframe>
-  </div>
-  <p class="writing-portfolio__open">
-    Prefer a full-screen view?
-    <a href="/files/james-rice-writing-portfolio-summer-2026.pdf" target="_blank" rel="noopener">Open the portfolio in a new tab</a>.
-  </p>
-  <p class="writing-portfolio__source">
-    From <cite>Journal</cite> by Chauvet Couture. Editor: Zachary Costello.
-  </p>
-</section>
-
-
-
-  
-
-  
-<section class="writing-portfolio writing-portfolio--article" aria-labelledby="smart-era-pdf-title">
-  <div class="writing-portfolio__header">
-    <div>
-      <p class="writing-portfolio__eyebrow">Featured article</p>
-      <h2 id="smart-era-pdf-title"><a href="https://digitalfrontier.com/articles/research-future">“The Smart Era”</a></h2>
-      <p class="writing-portfolio__intro">
-        My Essay in Digital Frontier Magazine's March 2025 Issue
-      </p>
-    </div>
-    <a class="btn btn--primary writing-portfolio__download" href="/files/james-rice-the-smart-era-portfolio.pdf" download>
-      <i class="fas fa-download" aria-hidden="true"></i> Download PDF
-    </a>
-  </div>
-
-  <div class="writing-portfolio__viewer">
-    <iframe
-      src="/files/james-rice-the-smart-era-portfolio.pdf#view=FitH&amp;zoom=page-width"
-      title="The Smart Era by James Rice"
-      loading="lazy">
-    </iframe>
-  </div>
-  <p class="writing-portfolio__open">
-    Prefer a full-screen view?
-    <a href="/files/james-rice-the-smart-era-portfolio.pdf" target="_blank" rel="noopener">Open the article in a new tab</a>.
-  </p>
-  <p class="writing-portfolio__source">
-    Originally published by <cite>Digital Frontier</cite>.
-  </p>
-</section>
-  
-
-  
-<section class="writing-portfolio writing-portfolio--article" aria-labelledby="ccod-financial-disinfo-pdf-title">
-  <div class="writing-portfolio__header">
-    <div>
-      <p class="writing-portfolio__eyebrow">Policy report</p>
-      <h2 id="ccod-financial-disinfo-pdf-title"><a href="https://ccod.co.uk/activity#reports-what-is-financial-disinformation-a-london-perspective">“What is Financial Disinformation? A London Perspective”</a></h2>
-      <p class="writing-portfolio__intro">
-        My explainer for the Council for Countering Online Disinformation, written as a CCOD Policy Fellow.
-      </p>
-    </div>
-    <a class="btn btn--primary writing-portfolio__download" href="/files/james-rice-what-is-financial-disinformation-ccod.pdf" download>
-      <i class="fas fa-download" aria-hidden="true"></i> Download PDF
-    </a>
-  </div>
-
-  <div class="writing-portfolio__viewer">
+    </a></p></div>
+<div class="writing-portfolio__viewer">
     <iframe
       src="/files/james-rice-what-is-financial-disinformation-ccod.pdf#view=FitH&amp;zoom=page-width"
       title="What is Financial Disinformation? A London Perspective by James Rice"
@@ -105,8 +26,48 @@ Essays, public scholarship, and policy writing.
   <p class="writing-portfolio__source">
     Originally published by the <a href="https://ccod.co.uk/"><cite>Council for Countering Online Disinformation</cite></a> (CCOD).
   </p>
-</section>
-  
-
+</article>
+<article class="work-card" id="writing-portfolio-title"><p class="eyebrow">Summer 2026 · Chauvet Couture</p><h3><a href="/files/james-rice-writing-portfolio-summer-2026.pdf">Chauvet Couture’s Journal</a></h3><p>My essays in the Summer 2026 Journal Issue.</p>
+<div class="writing-portfolio__header"><p><a class="btn btn--primary writing-portfolio__download" href="/files/james-rice-writing-portfolio-summer-2026.pdf" download>
+      <i class="fas fa-download" aria-hidden="true"></i> Download PDF
+    </a></p></div>
+<div class="writing-portfolio__viewer">
+    <iframe
+      src="/files/james-rice-writing-portfolio-summer-2026.pdf#view=FitH&amp;zoom=page-width"
+      title="James Rice writing portfolio, Summer 2026"
+      loading="lazy">
+    </iframe>
+  </div>
+  <p class="writing-portfolio__open">
+    Prefer a full-screen view?
+    <a href="/files/james-rice-writing-portfolio-summer-2026.pdf" target="_blank" rel="noopener">Open the portfolio in a new tab</a>.
+  </p>
+  <p class="writing-portfolio__source">
+    From <cite>Journal</cite> by Chauvet Couture. Editor: Zachary Costello.
+  </p>
+</article>
+<article class="work-card"><p class="eyebrow">2026 · ECPR's The Loop Blog</p><h3><a href="/writing/digital-resilience-in-the-age-of-synthetic-media">Digital Resilience in the Age of Synthetic Media</a></h3><p></p><a class="text-link" href="/writing/digital-resilience-in-the-age-of-synthetic-media">Read more <span aria-hidden="true">↗</span></a></article>
+<article class="work-card"><p class="eyebrow">2025 · ECPR's The Loop Blog</p><h3><a href="/writing/the-loop">How Social Media and Online Communities Influence Climate Change Beliefs</a></h3><p></p><a class="text-link" href="/writing/the-loop">Read more <span aria-hidden="true">↗</span></a></article>
+<article class="work-card" id="smart-era-pdf-title"><p class="eyebrow">March 2025 · Digital Frontier</p><h3><a href="https://digitalfrontier.com/articles/research-future">The Smart Era</a></h3><p>My essay in Digital Frontier Magazine’s March 2025 issue.</p>
+<div class="writing-portfolio__header"><p><a class="btn btn--primary writing-portfolio__download" href="/files/james-rice-the-smart-era-portfolio.pdf" download>
+      <i class="fas fa-download" aria-hidden="true"></i> Download PDF
+    </a></p></div>
+<div class="writing-portfolio__viewer">
+    <iframe
+      src="/files/james-rice-the-smart-era-portfolio.pdf#view=FitH&amp;zoom=page-width"
+      title="The Smart Era by James Rice"
+      loading="lazy">
+    </iframe>
+  </div>
+  <p class="writing-portfolio__open">
+    Prefer a full-screen view?
+    <a href="/files/james-rice-the-smart-era-portfolio.pdf" target="_blank" rel="noopener">Open the article in a new tab</a>.
+  </p>
+  <p class="writing-portfolio__source">
+    Originally published by <cite>Digital Frontier</cite>.
+  </p>
+</article>
+<article class="work-card"><p class="eyebrow">2025 · LSE Religion and Global Society Blog</p><h3><a href="/writing/ecological-ethics">An Ecological Ethics for the Anthropocene: A Call to Reimagine Religion and Nature</a></h3><p></p><a class="text-link" href="/writing/ecological-ethics">Read more <span aria-hidden="true">↗</span></a></article>
+<article class="work-card"><p class="eyebrow">2024 · Students at LSE Blog</p><h3><a href="/writing/studying-through-adversity">Studying Through Adversity: How Equity, Diversity and Inclusion Works at LSE</a></h3><p></p><a class="text-link" href="/writing/studying-through-adversity">Read more <span aria-hidden="true">↗</span></a></article>
+</div>
 ```
-
