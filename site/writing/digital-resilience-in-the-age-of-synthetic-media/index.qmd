@@ -1,0 +1,24 @@
+---
+title: Digital resilience in the age of synthetic media
+lang: en-GB
+description: ''
+legacy:
+  title: Digital resilience in the age of synthetic media
+  collection: writing
+  type: Article
+  permalink: /writing/digital-resilience-in-the-age-of-synthetic-media
+  venue: ECPR's The Loop Blog
+  date: '2026-02-26'
+  link: https://theloop.ecpr.eu/digital-resilience-in-the-age-of-synthetic-media/
+---
+
+
+```{=html}
+<div class="record-meta">ECPR's The Loop Blog<br>Article<br>2026-02-26</div>
+```
+
+```{=html}
+<div class="record-links"><a class="text-link" href="https://theloop.ecpr.eu/digital-resilience-in-the-age-of-synthetic-media/">Read original ↗</a></div>
+```
+
+An article on strengthening public trust and democratic resilience in an era of AI-generated and synthetic media.

@@ -1,0 +1,20 @@
+---
+title: Does Climate Misinformation Exacerbate Information Asymmetry?
+lang: en-GB
+description: ''
+legacy:
+  title: Does Climate Misinformation Exacerbate Information Asymmetry?
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-22
+  venue: JARGON (University of Essex ISER Seminar)
+  location: Colchester, United Kingdom
+  date: '2025-12-01'
+---
+
+
+```{=html}
+<div class="record-meta">JARGON (University of Essex ISER Seminar)<br>Colchester, United Kingdom<br>Talk<br>2025-12-01</div>
+```
+
+Examined how climate misinformation deepens information asymmetries during the JARGON internal seminar.

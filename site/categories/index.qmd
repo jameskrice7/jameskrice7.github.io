@@ -1,0 +1,11 @@
+---
+title: Posts by Category
+lang: en-GB
+search: false
+---
+
+
+```{=html}
+<div class="work-list"><article class="work-card"><p class="eyebrow">2199 · </p><h3><a href="/posts/2012/08/blog-post-4/">Future Blog Post</a></h3><p></p><a class="text-link" href="/posts/2012/08/blog-post-4/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2015 · </p><h3><a href="/posts/2015/08/blog-post-4/">Blog Post number 4</a></h3><p></p><a class="text-link" href="/posts/2015/08/blog-post-4/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2014 · </p><h3><a href="/posts/2014/08/blog-post-3/">Blog Post number 3</a></h3><p></p><a class="text-link" href="/posts/2014/08/blog-post-3/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2013 · </p><h3><a href="/posts/2013/08/blog-post-2/">Blog Post number 2</a></h3><p></p><a class="text-link" href="/posts/2013/08/blog-post-2/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2012 · </p><h3><a href="/posts/2012/08/blog-post-1/">Blog Post number 1</a></h3><p></p><a class="text-link" href="/posts/2012/08/blog-post-1/">Read more <span aria-hidden="true">↗</span></a></article></div>
+```
+

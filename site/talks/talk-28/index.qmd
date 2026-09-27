@@ -1,0 +1,23 @@
+---
+title: Does Climate Misinformation affect ESG Performance
+lang: en-GB
+description: Presented research on whether climate misinformation is associated with
+  changes in firm-level ESG performance and sustainability-related market signals.
+legacy:
+  title: Does Climate Misinformation affect ESG Performance
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-28
+  venue: EPSS Annual Conference
+  date: '2026-06-18'
+  location: Belfast, Northern Ireland
+  excerpt: Presented research on whether climate misinformation is associated with
+    changes in firm-level ESG performance and sustainability-related market signals.
+---
+
+
+```{=html}
+<div class="record-meta">EPSS Annual Conference<br>Belfast, Northern Ireland<br>Talk<br>2026-06-18</div>
+```
+
+Presented research on whether climate misinformation is associated with changes in firm-level ESG performance and sustainability-related market signals.

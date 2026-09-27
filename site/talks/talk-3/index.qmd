@@ -1,0 +1,20 @@
+---
+title: Using Machine Learning for Macroeconomic Prediction
+lang: en-GB
+description: ''
+legacy:
+  title: Using Machine Learning for Macroeconomic Prediction
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-3
+  venue: The University of Connecticut
+  date: '2020-02-17'
+  location: Storrs, Connecticut
+---
+
+
+```{=html}
+<div class="record-meta">The University of Connecticut<br>Storrs, Connecticut<br>Talk<br>2020-02-17</div>
+```
+
+Presentation given to UConn's Economics Society, a student organization. I presented results from a Principal Components Analysis (PCA) methodology applied to a large macroeconomic dataset, FRED-MD, from the St. Louis Federal Reserve Bank.

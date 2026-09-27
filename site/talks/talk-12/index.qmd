@@ -1,0 +1,20 @@
+---
+title: To What Extent Are Religious Political Actors Constrained by Political Neutrality?
+lang: en-GB
+description: ''
+legacy:
+  title: To What Extent Are Religious Political Actors Constrained by Political Neutrality?
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-12
+  venue: ECPR General Conference
+  location: Thessaloniki, Greece
+  date: '2025-08-28'
+---
+
+
+```{=html}
+<div class="record-meta">ECPR General Conference<br>Thessaloniki, Greece<br>Talk<br>2025-08-28</div>
+```
+
+Presented research on the boundaries of political neutrality for religious actors during the ECPR General Conference.

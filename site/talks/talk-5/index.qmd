@@ -1,0 +1,20 @@
+---
+title: St. Augustine's Confessions
+lang: en-GB
+description: ''
+legacy:
+  title: St. Augustine's Confessions
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-5
+  venue: Harvard Extension School
+  date: '2022-01-11'
+  location: Cambridge, Massachusetts
+---
+
+
+```{=html}
+<div class="record-meta">Harvard Extension School<br>Cambridge, Massachusetts<br>Talk<br>2022-01-11</div>
+```
+
+Presented a flash talk to the Harvard Extension School (HES) professional development reading group. Tutorial based on the life of St. Augustine and his lesser known work "Confessions."

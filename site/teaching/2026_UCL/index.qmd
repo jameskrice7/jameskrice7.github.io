@@ -1,0 +1,65 @@
+---
+title: Teaching Assistant — University College London
+lang: en-GB
+description: Course dashboard for undergraduate teaching assistant roles at UCL, with
+  weekly seminar-slide placeholders for each class.
+legacy:
+  title: Teaching Assistant — University College London
+  collection: teaching
+  type: Undergraduate Courses
+  permalink: /teaching/2026_UCL
+  venue: University College London (UCL) Department of Political Science
+  date: '2026-01-01'
+  location: London
+  excerpt: Course dashboard for undergraduate teaching assistant roles at UCL, with
+    weekly seminar-slide placeholders for each class.
+  courses:
+  - term: Spring 2027
+    title: 'POLS0010: Data Analysis'
+  - term: Autumn 2026
+    title: 'POLS0064: Ethics and Public Policy'
+  - term: Spring 2026
+    title: 'POLS0008: Introduction to Quantitative Research Methods'
+  - term: Spring 2026
+    title: 'POLS0060: Science, Scientific Discovery and Statistics'
+---
+
+
+```{=html}
+<div class="record-meta">University College London (UCL) Department of Political Science<br>London<br>Undergraduate Courses<br>2026-01-01</div>
+```
+
+<div class="teaching-hero">
+  <p class="teaching-hero-label">Teaching Assistant</p>
+  <h2>University College London Department of Political Science</h2>
+  <p>Use this page as the central hub for undergraduate course support and weekly seminar materials.</p>
+  <a class="teaching-card-button" href="#ucl-course-list">Jump to course materials</a>
+</div>
+
+## Course dashboard {#ucl-course-list}
+
+<div class="teaching-course-grid">
+  <section class="teaching-course-card" id="pols0010-data-analysis">
+    <p class="teaching-card-kicker">Spring 2027</p>
+    <h3>POLS0010: Data Analysis</h3>
+    <div class="teaching-materials" id="ucl-pols0010-data-analysis-slides"><h4>Seminar slides</h4><div class="week-grid"><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-01.pdf"><strong>Week 01</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-02.pdf"><strong>Week 02</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-03.pdf"><strong>Week 03</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-04.pdf"><strong>Week 04</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-05.pdf"><strong>Week 05</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-06.pdf"><strong>Week 06</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-07.pdf"><strong>Week 07</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-08.pdf"><strong>Week 08</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-09.pdf"><strong>Week 09</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0010-data-analysis/seminar-materials/slides/week-10.pdf"><strong>Week 10</strong><span>Coming soon</span></div></div></div>
+  </section>
+
+  <section class="teaching-course-card" id="pols0064-ethics-public-policy">
+    <p class="teaching-card-kicker">Autumn 2026</p>
+    <h3>POLS0064: Ethics and Public Policy</h3>
+    <div class="teaching-materials" id="ucl-pols0064-ethics-public-policy-slides"><h4>Seminar slides</h4><div class="week-grid"><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-01.pdf"><strong>Week 01</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-02.pdf"><strong>Week 02</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-03.pdf"><strong>Week 03</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-04.pdf"><strong>Week 04</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-05.pdf"><strong>Week 05</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-06.pdf"><strong>Week 06</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-07.pdf"><strong>Week 07</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-08.pdf"><strong>Week 08</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-09.pdf"><strong>Week 09</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-10.pdf"><strong>Week 10</strong><span>Coming soon</span></div></div></div>
+  </section>
+
+  <section class="teaching-course-card" id="pols0008-introduction-quantitative-methods">
+    <p class="teaching-card-kicker">Spring 2026</p>
+    <h3>POLS0008: Introduction to Quantitative Research Methods</h3>
+    <div class="teaching-materials" id="ucl-pols0008-introduction-quantitative-methods-slides"><h4>Seminar slides</h4><div class="week-grid"><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-01.pdf"><strong>Week 01</strong><a href="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-01.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-02.pdf"><strong>Week 02</strong><a href="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-02.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-03.pdf"><strong>Week 03</strong><a href="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-03.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-04.pdf"><strong>Week 04</strong><a href="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-04.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-05.pdf"><strong>Week 05</strong><a href="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-05.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-06.pdf"><strong>Week 06</strong><a href="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-06.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-07.pdf"><strong>Week 07</strong><a href="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-07.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-08.pdf"><strong>Week 08</strong><a href="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-08.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-09.pdf"><strong>Week 09</strong><a href="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-09.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0008-introduction-quantitative-methods/seminar-materials/slides/week-10.pdf"><strong>Week 10</strong><span>Coming soon</span></div></div></div>
+  </section>
+
+  <section class="teaching-course-card" id="pols0060-science-statistics">
+    <p class="teaching-card-kicker">Spring 2026</p>
+    <h3>POLS0060: Science, Scientific Discovery and Statistics</h3>
+    <div class="teaching-materials" id="ucl-pols0060-science-scientific-discovery-statistics-slides"><h4>Seminar slides</h4><div class="week-grid"><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-01.pdf"><strong>Week 01</strong><a href="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-01.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-02.pdf"><strong>Week 02</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-03.pdf"><strong>Week 03</strong><a href="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-03.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-04.pdf"><strong>Week 04</strong><a href="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-04.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-05.pdf"><strong>Week 05</strong><a href="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-05.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-06.pdf"><strong>Week 06</strong><a href="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-06.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-07.pdf"><strong>Week 07</strong><a href="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-07.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-08.pdf"><strong>Week 08</strong><a href="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-08.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-09.pdf"><strong>Week 09</strong><a href="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-09.pdf" download>Download slides ↗</a></div><div class="week" data-slide-path="/files/teaching/ucl-pols0060-science-scientific-discovery-statistics/seminar-materials/slides/week-10.pdf"><strong>Week 10</strong><span>Coming soon</span></div></div></div>
+  </section>
+</div>

@@ -1,0 +1,20 @@
+---
+title: Ecological Ethics and Religion
+lang: en-GB
+description: ''
+legacy:
+  title: Ecological Ethics and Religion
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-17
+  venue: Science & Religion Forum General Conference
+  location: Online
+  date: '2024-10-01'
+---
+
+
+```{=html}
+<div class="record-meta">Science & Religion Forum General Conference<br>Online<br>Talk<br>2024-10-01</div>
+```
+
+Explored intersections between ecological ethics and religious thought at the Science & Religion Forum General Conference.

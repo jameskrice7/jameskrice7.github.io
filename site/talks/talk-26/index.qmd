@@ -1,0 +1,24 @@
+---
+title: Neural SDEs for Finance and Asset Pricing
+lang: en-GB
+description: Outlined how neural stochastic differential equations can model uncertainty,
+  nonlinear dynamics, and continuous-time structure in finance and asset pricing applications.
+legacy:
+  title: Neural SDEs for Finance and Asset Pricing
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-26
+  venue: JARGON (University of Essex ISER Seminar)
+  date: '2026-06-08'
+  location: Colchester, United Kingdom
+  excerpt: Outlined how neural stochastic differential equations can model uncertainty,
+    nonlinear dynamics, and continuous-time structure in finance and asset pricing
+    applications.
+---
+
+
+```{=html}
+<div class="record-meta">JARGON (University of Essex ISER Seminar)<br>Colchester, United Kingdom<br>Talk<br>2026-06-08</div>
+```
+
+Outlined how neural stochastic differential equations can model uncertainty, nonlinear dynamics, and continuous-time structure in finance and asset pricing applications.

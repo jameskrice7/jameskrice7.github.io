@@ -1,0 +1,23 @@
+---
+title: Does Climate Misinformation Exacerbate Information Asymmetry?
+lang: en-GB
+description: Explored how misleading climate information may widen information asymmetries
+  between firms, investors, policymakers, and publics during sustainability transitions.
+legacy:
+  title: Does Climate Misinformation Exacerbate Information Asymmetry?
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-27
+  venue: Essex Sustainable Transitions Annual Conference (University of Essex)
+  date: '2026-06-11'
+  location: Colchester, United Kingdom
+  excerpt: Explored how misleading climate information may widen information asymmetries
+    between firms, investors, policymakers, and publics during sustainability transitions.
+---
+
+
+```{=html}
+<div class="record-meta">Essex Sustainable Transitions Annual Conference (University of Essex)<br>Colchester, United Kingdom<br>Talk<br>2026-06-11</div>
+```
+
+Explored how misleading climate information may widen information asymmetries between firms, investors, policymakers, and publics during sustainability transitions.

@@ -1,0 +1,283 @@
+---
+---
+
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+.author__avatar img {
+    width: 100px; /* Adjust to fit your avatar area */
+    height: 100px; /* Match width to create a perfect circle */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image scales to fit within the circle */
+}
+
+.page__content {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start; /* Ensures the sidebar and main content align at the top */
+  gap: 20px; /* Adds spacing between the sidebar and main content */
+}
+
+.page__sidebar {
+  flex: 0 1 25%; /* Sidebar takes up 25% of the width */
+  max-width: 300px; /* Ensures the sidebar doesn't grow too large */
+  box-sizing: border-box; /* Includes padding and border in width calculation */
+}
+
+.page__main {
+  flex: 1 1 70%; /* Main content takes the remaining width */
+  box-sizing: border-box; /* Includes padding and border in width calculation */
+  overflow: hidden; /* Prevents content from spilling */
+}
+
+@media screen and (max-width: 768px) {
+  .page__content {
+    flex-direction: column; /* Stacks the sidebar and main content on smaller screens */
+  }
+  .page__sidebar,
+  .page__main {
+    flex: 1 1 100%; /* Both sections take full width on smaller screens */
+    max-width: 100%;
+  }
+}
+
+.teaching-hero {
+  margin-bottom: 2rem;
+}
+
+.teaching-hero-label {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #666;
+  margin-bottom: 0.35rem;
+}
+
+.teaching-course-grid {
+  display: grid;
+  gap: 2.5rem;
+}
+
+.teaching-course-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.9rem;
+  padding: 1.5rem 1.75rem;
+  background: #fff;
+}
+
+.teaching-course-card h3 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.teaching-card-kicker {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 0.35rem;
+}
+
+.teaching-materials {
+  margin-top: 1rem;
+}
+
+.teaching-materials-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.teaching-materials-header h4 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.teaching-materials-count {
+  font-size: 0.85rem;
+  color: #555;
+  background: #f4f4f4;
+  border-radius: 999px;
+  padding: 0.2rem 0.65rem;
+  white-space: nowrap;
+}
+
+.teaching-materials-summary {
+  margin: 0.5rem 0 1rem;
+  color: #555;
+}
+
+.teaching-week-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 0.75rem;
+}
+
+.teaching-week-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.6rem;
+  padding: 0.6rem 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.teaching-week-card--available {
+  border-color: #c9d7ff;
+  background: #f6f8ff;
+}
+
+.teaching-week-label {
+  font-weight: 600;
+}
+
+.teaching-week-link,
+.teaching-week-status {
+  font-size: 0.85rem;
+}
+
+.teaching-week-status {
+  color: #666;
+}
+
+/* Featured document on the Writing page */
+.writing-portfolio {
+  margin: 0 0 2.75rem;
+  padding: 1.4rem;
+  border: 1px solid #d8e1e8;
+  border-top: 4px solid $primary-color;
+  border-radius: 0.65rem;
+  background: linear-gradient(145deg, #f8fafc 0%, #fff 55%);
+  box-shadow: 0 0.5rem 1.5rem rgba(35, 55, 70, 0.1);
+}
+
+.writing-portfolio--article {
+  margin-top: 1.75rem;
+}
+
+.writing-portfolio__header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-bottom: 1.15rem;
+}
+
+.writing-portfolio__eyebrow {
+  margin: 0 0 0.3rem;
+  color: $primary-color;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.writing-portfolio h2 {
+  margin: 0;
+  font-size: 1.35rem;
+}
+
+.writing-portfolio__intro {
+  margin: 0.45rem 0 0;
+  color: #52606a;
+  font-size: 0.9rem;
+}
+
+.writing-portfolio__download {
+  flex: 0 0 auto;
+  margin-top: 0.15rem;
+  white-space: nowrap;
+}
+
+.writing-portfolio__viewer {
+  overflow: hidden;
+  height: clamp(32rem, 72vh, 52rem);
+  border: 1px solid #cbd3da;
+  border-radius: 0.35rem;
+  background: #eef1f3;
+}
+
+.writing-portfolio__viewer iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.writing-portfolio__open {
+  margin: 0.8rem 0 0;
+  color: #606b73;
+  font-size: 0.78rem;
+  text-align: right;
+}
+
+.writing-portfolio__source {
+  margin: 0.45rem 0 0;
+  color: #606b73;
+  font-size: 0.78rem;
+  font-style: italic;
+  text-align: right;
+}
+@media screen and (max-width: 600px) {
+  .writing-portfolio {
+    padding: 1rem;
+  }
+
+  .writing-portfolio__header {
+    display: block;
+  }
+
+  .writing-portfolio__download {
+    margin-top: 1rem;
+  }
+
+  .writing-portfolio__viewer {
+    height: 70vh;
+    min-height: 28rem;
+  }
+
+  .writing-portfolio__open {
+    text-align: left;
+  }
+
+  .writing-portfolio__source {
+    text-align: left;
+  }
+}
