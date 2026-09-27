@@ -1,6 +1,6 @@
 """Run after `quarto render site`. Uses only the Python standard library."""
 from pathlib import Path
-import hashlib,json,sys,urllib.parse,html.parser,collections
+import hashlib,json,sys,urllib.parse,html.parser,collections,re
 ROOT=Path(__file__).resolve().parent.parent
 OUT=ROOT/'site/_site'
 errors=[]
@@ -50,9 +50,14 @@ class Links(html.parser.HTMLParser):
             if (tag in ['a','link'] and k=='href') or (tag in ['img','script','iframe'] and k=='src'):
                 if v:self.urls.append(v)
 broken=[]
+weekly_cards=0
 for p in OUT.rglob('*.html'):
     if any(x in p.relative_to(OUT).parts for x in ['site_libs','assets','talkmap']):continue
     parser=Links();parser.feed(p.read_text(encoding='utf-8'))
+    for path,body in re.findall(r'<div class="week" data-slide-path="([^"]+)">(.*?)</div>',p.read_text(encoding='utf-8'),re.S):
+        weekly_cards+=1
+        exists=resolve(path).is_file()
+        if exists != ('Download slides' in body):errors.append('Incorrect seminar availability: '+path)
     base='/'+p.relative_to(OUT).as_posix()
     for url in parser.urls:
         if url.startswith(('#','mailto:','tel:','data:','javascript:')):continue
@@ -63,7 +68,7 @@ legacy=['/markdown/','/archive-layout-with-content/','/portfolio/','/posts/','/t
 preexisting=[b for b in broken if any(b['page'].startswith(p) for p in legacy)]
 actionable=[b for b in broken if b not in preexisting]
 errors.extend('Broken link: '+str(b) for b in actionable)
-report={'original_files_verified':len(manifest),'live_urls_verified':len(set(live)),'static_assets_verified':asset_count,'content_pages_verified':len(content),'unmodified_content_bodies_verified':body_count,'legacy_example_link_issues':preexisting,'errors':errors}
+report={'original_files_verified':len(manifest),'live_urls_verified':len(set(live)),'static_assets_verified':asset_count,'content_pages_verified':len(content),'unmodified_content_bodies_verified':body_count,'weekly_seminar_slots_verified':weekly_cards,'legacy_example_link_issues':preexisting,'errors':errors}
 (ROOT/'migration/verification.json').write_text(json.dumps(report,indent=2),encoding='utf-8')
 print(json.dumps(report,indent=2))
 sys.exit(bool(errors))

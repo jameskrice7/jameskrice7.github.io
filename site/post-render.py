@@ -30,5 +30,5 @@ for page in (OUT/'teaching').rglob('*.html'):
         available=(OUT/path.lstrip('/')).is_file()
         detail=f'<a href="{html.escape(path,quote=True)}" download>Download slides ↗</a>' if available else '<span>Coming soon</span>'
         return f'<div class="week" data-slide-path="{html.escape(path,quote=True)}"><strong>{match.group(2)}</strong>{detail}</div>'
-    text=re.sub(r'<div class="week" data-slide-path="([^"]+)"><strong>([^<]+)</strong>.*?</div>',refresh,text,flags=re.S)
+    text=re.sub(r'<div class="week" data-slide-path="([^"]+)">\s*<strong>([^<]+)</strong>.*?</div>',refresh,text,flags=re.S)
     page.write_text(text,encoding='utf-8')
