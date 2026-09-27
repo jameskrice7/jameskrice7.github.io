@@ -4,6 +4,9 @@ lang: en-GB
 title-block-banner: false
 pagetitle: James Kennon Rice | Information, institutions & a changing planet
 page-layout: full
+format:
+  html:
+    anchor-sections: false
 css: home.css
 description: James Kennon Rice researches climate misinformation, political economy,
   and environmental governance at the University of Essex.
