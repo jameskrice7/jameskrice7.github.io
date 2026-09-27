@@ -1,5 +1,5 @@
 ---
-title: Frederic Bastiat Fellowship 2023-2024
+title: Frédéric Bastiat Fellowship 2023–2024
 lang: en-GB
 description: ''
 legacy:
@@ -10,11 +10,14 @@ legacy:
   venue: The Mercatus Center at George Mason University
   date: '2023-08-01'
   location: Fairfax, VA
+date-label: September 2023–June 2024
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">The Mercatus Center at George Mason University<br>Fairfax, VA<br>Fellowship<br>2023-08-01</div>
+<div class="record-meta">The Mercatus Center at George Mason University<br>Fairfax, VA<br>Fellowship<br>September 2023–June 2024</div>
 ```
 
 Year-long programme based around in-person conferences on classically liberal political economy hosted by the Mercatus Center in Fairfax.

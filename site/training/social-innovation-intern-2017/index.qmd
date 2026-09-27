@@ -1,0 +1,14 @@
+---
+title: UNH Social Innovation Intern
+lang: en-GB
+cv-updated: '2026-09-27'
+date-label: May–August 2017
+venue: University of New Hampshire
+---
+
+
+```{=html}
+<div class="record-meta">University of New Hampshire<br>May–August 2017</div>
+```
+
+Social Innovation Intern at the University of New Hampshire.

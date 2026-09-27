@@ -1,0 +1,219 @@
+{
+  "source": "User-supplied Main_CV (6).pdf; reconciled 27 September 2026",
+  "changes": [
+    {
+      "page": "publications/Just_emissions/index.qmd",
+      "title": "The Prospect of ‘Just Emissions’ as an International Norm of Environmental Governance",
+      "date": "December 2024",
+      "venue": null
+    },
+    {
+      "page": "publications/misinformation_challenge_information_freedom/index.qmd",
+      "title": null,
+      "date": "January 2026",
+      "venue": null
+    },
+    {
+      "page": "publications/liberal_order_complex_societies_climate_change/index.qmd",
+      "title": "The Liberal Order in Complex Societies Marred by Climate Change",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "publications/Beyond_post_truth_climate_misinformation/index.qmd",
+      "title": "Beyond Post-Truth: Projecting the Future Trajectory of Climate Misinformation",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "writing/digital-resilience-in-the-age-of-synthetic-media/index.qmd",
+      "title": "Digital Resilience in the Age of Synthetic Media",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "writing/studying-through-adversity/index.qmd",
+      "title": "Studying Through Adversity: How Equity, Diversity and Inclusion Works at LSE",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "training/training-1/index.qmd",
+      "title": "International Relations and Global Diplomacy Graduate Diploma",
+      "date": "January–June 2018",
+      "venue": null
+    },
+    {
+      "page": "training/training-2/index.qmd",
+      "title": null,
+      "date": "June–August 2018",
+      "venue": null
+    },
+    {
+      "page": "training/training-4/index.qmd",
+      "title": "The Posthuman and New Materialist Philosophy Summer School 2021",
+      "date": "August 2021",
+      "venue": null
+    },
+    {
+      "page": "training/training-5/index.qmd",
+      "title": "Frédéric Bastiat Fellowship 2023–2024",
+      "date": "September 2023–June 2024",
+      "venue": null
+    },
+    {
+      "page": "training/training-6/index.qmd",
+      "title": null,
+      "date": "January–March 2024",
+      "venue": null
+    },
+    {
+      "page": "training/training-7/index.qmd",
+      "title": "Religion and Climate Futures Summer School 2024",
+      "date": null,
+      "venue": "LSE Faith Centre and Cambridge University InterFaith Programme"
+    },
+    {
+      "page": "training/training-8/index.qmd",
+      "title": "Oxford University Economics Summer School",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "training/training-9/index.qmd",
+      "title": null,
+      "date": "August 2025–August 2026",
+      "venue": null
+    },
+    {
+      "page": "training/social-innovation-intern-2017/index.qmd",
+      "new": true
+    },
+    {
+      "page": "talks/talk-5/index.qmd",
+      "title": "St. Augustine’s Confessions",
+      "date": "December 2021",
+      "venue": "HES Graduate Student Association Conference"
+    },
+    {
+      "page": "talks/talk-12/index.qmd",
+      "title": "Are Religious Political Actors Constrained by Political Neutrality?",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "talks/talk-13/index.qmd",
+      "title": "Climate Discourse and ESG Performance in the Post-Truth Era",
+      "date": null,
+      "venue": "Essex Sustainable Transitions Annual Conference"
+    },
+    {
+      "page": "talks/talk-14/index.qmd",
+      "title": "Structural Incentives in Complex Societies Marred by Climate Change",
+      "date": null,
+      "venue": "Association of Heterodox Economics Annual Conference"
+    },
+    {
+      "page": "talks/talk-16/index.qmd",
+      "title": "The Effect of Climate Misinformation on Markets and Policy",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "talks/talk-17/index.qmd",
+      "title": "An Ecological Ethics for the Anthropocene",
+      "date": "November 2024",
+      "venue": "Science and Religion Forum Annual Conference"
+    },
+    {
+      "page": "talks/talk-24/index.qmd",
+      "title": "Cutting Edge Artificial Intelligence Research",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "talks/talk-20/index.qmd",
+      "title": "Does Climate Misinformation Affect ESG Performance?",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "talks/talk-23/index.qmd",
+      "title": "Does Climate Misinformation Affect ESG Performance?",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "talks/talk-10/index.qmd",
+      "title": null,
+      "date": null,
+      "venue": "LSE MSc Dissertation Seminar"
+    },
+    {
+      "page": "talks/talk-7/index.qmd",
+      "title": null,
+      "date": null,
+      "venue": "Political Philosophy of Environmental Change Classroom Seminar"
+    },
+    {
+      "page": "talks/talk-6/index.qmd",
+      "title": null,
+      "date": null,
+      "venue": "Life and Mind Classroom Seminar"
+    },
+    {
+      "page": "talks/talk-4/index.qmd",
+      "title": null,
+      "date": null,
+      "venue": "Ph.D. Econometrics III Course Seminar"
+    },
+    {
+      "page": "talks/talk-3/index.qmd",
+      "title": null,
+      "date": null,
+      "venue": "UConn Economics Society"
+    },
+    {
+      "page": "talks/talk-2/index.qmd",
+      "title": null,
+      "date": null,
+      "venue": "Boston Federal Reserve University Challenge"
+    },
+    {
+      "page": "talks/climate-policy-uncertainty-2025/index.qmd",
+      "new": true
+    },
+    {
+      "page": "working_papers/Climate_Misinformation/index.qmd",
+      "title": "The Social Justification of Climate Change Beliefs and Environmental Communication",
+      "date": null,
+      "venue": null
+    },
+    {
+      "page": "working_papers/stochastic-deep-learning/index.qmd",
+      "new": true
+    },
+    {
+      "page": "working_papers/infrastructure-and-climate/index.qmd",
+      "new": true
+    },
+    {
+      "page": "working_papers/international-norms-environmental-governance/index.qmd",
+      "new": true
+    },
+    {
+      "page": "teaching/2026_ESS/index.qmd",
+      "new": true
+    },
+    {
+      "page": "teaching/2026_Essex/index.qmd",
+      "new": true
+    },
+    {
+      "page": "service_and_leadership/MAP/index.qmd",
+      "title": "LSE Philosophy Minorities and Philosophy (MAP) Group — Organizing Member",
+      "date": "September 2023–September 2024",
+      "venue": null
+    }
+  ]
+}

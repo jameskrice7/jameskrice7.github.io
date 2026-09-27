@@ -1,6 +1,5 @@
 ---
-title: 'Cutting Edge Artificial Intelligence Research: Attention, Transformers, Embeddings,
-  and MLOps'
+title: Cutting Edge Artificial Intelligence Research
 lang: en-GB
 description: ''
 legacy:
@@ -12,7 +11,9 @@ legacy:
   venue: HEROES (University of Essex Department of Government Seminar)
   location: Colchester, United Kingdom
   date: '2025-11-19'
+cv-updated: '2026-09-27'
 ---
+
 
 
 ```{=html}

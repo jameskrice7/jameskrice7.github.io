@@ -1,5 +1,5 @@
 ---
-title: Climate Change Misinformation and Integrity in Environmental Communication
+title: The Social Justification of Climate Change Beliefs and Environmental Communication
 lang: en-GB
 description: While our beliefs about crucial political issues such as climate change
   are shaped by a variety of psychological and socioeconomic influences, this essay
@@ -20,7 +20,9 @@ legacy:
   venue: Working Paper
   citation: Rice, James Kennon. (2024). &quot;The Social Justification of Climate
     Change Beliefs and Environmental Commuinication.&quot; <i>Working Paper</i>.
+cv-updated: '2026-09-27'
 ---
+
 
 
 ```{=html}

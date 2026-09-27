@@ -1,5 +1,5 @@
 ---
-title: Oxford Economics Department September Summer School
+title: Oxford University Economics Summer School
 lang: en-GB
 description: ''
 legacy:
@@ -10,7 +10,9 @@ legacy:
   venue: Intensive Training
   date: '2025-09-08'
   location: Oxford University
+cv-updated: '2026-09-27'
 ---
+
 
 
 ```{=html}

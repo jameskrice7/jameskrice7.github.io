@@ -1,5 +1,5 @@
 ---
-title: Studying Through Adversity
+title: 'Studying Through Adversity: How Equity, Diversity and Inclusion Works at LSE'
 lang: en-GB
 description: ''
 legacy:
@@ -10,7 +10,9 @@ legacy:
   venue: Students at LSE Blog
   date: '2024-05-23'
   link: https://blogs.lse.ac.uk/studentsatlse/2024/05/23/studying-through-adversity-how-equity-diversity-and-inclusion-works-at-lse/
+cv-updated: '2026-09-27'
 ---
+
 
 
 ```{=html}

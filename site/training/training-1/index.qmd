@@ -1,5 +1,5 @@
 ---
-title: International Relations and Global Diplomacy Postgraduate Training 2018
+title: International Relations and Global Diplomacy Graduate Diploma
 lang: en-GB
 description: ''
 legacy:
@@ -10,11 +10,14 @@ legacy:
   venue: United Nations Institute for Training and Research (UNITAR)
   date: '2018-02-19'
   location: New York, NY
+date-label: January–June 2018
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">United Nations Institute for Training and Research (UNITAR)<br>New York, NY<br>Postgraduate course<br>2018-02-19</div>
+<div class="record-meta">United Nations Institute for Training and Research (UNITAR)<br>New York, NY<br>Postgraduate course<br>January–June 2018</div>
 ```
 
 Three month long, in person course at UN headquarters in NYC. Topics taught by diplomatic and academic staff varied, but focused on diplomacy and international relations.

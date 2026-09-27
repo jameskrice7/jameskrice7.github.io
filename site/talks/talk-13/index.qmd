@@ -1,6 +1,5 @@
 ---
-title: Does Climate Misinformation Affect ESG Performance? Evidence from Social Media
-  and Firm-Level Data
+title: Climate Discourse and ESG Performance in the Post-Truth Era
 lang: en-GB
 description: ''
 legacy:
@@ -12,11 +11,14 @@ legacy:
   venue: Sustainable Transitions Conference (Essex)
   location: Colchester, United Kingdom
   date: '2025-06-03'
+venue: Essex Sustainable Transitions Annual Conference
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">Sustainable Transitions Conference (Essex)<br>Colchester, United Kingdom<br>Talk<br>2025-06-03</div>
+<div class="record-meta">Essex Sustainable Transitions Annual Conference<br>Colchester, United Kingdom<br>Talk<br>2025-06-03</div>
 ```
 
 Shared findings linking online climate misinformation to ESG performance metrics at the Sustainable Transitions Conference.

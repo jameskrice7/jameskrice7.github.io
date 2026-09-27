@@ -10,11 +10,14 @@ legacy:
   venue: The University of Edinburgh
   date: 2023-02-6
   location: Edinburgh, UK
+venue: Life and Mind Classroom Seminar
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">The University of Edinburgh<br>Edinburgh, UK<br>Talk<br>2023-02-6</div>
+<div class="record-meta">Life and Mind Classroom Seminar<br>Edinburgh, UK<br>Talk<br>2023-02-6</div>
 ```
 
 Talk given for Spring Term course, Life and Mind, on the Edinburgh MSc in Philosophy, Science and Religion. Based on the work of Leonard Lessius (1554-1623), T. H. Huxley, Richard Dawkins, and John Polkinghorne.

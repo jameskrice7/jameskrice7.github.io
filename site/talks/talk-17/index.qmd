@@ -1,5 +1,5 @@
 ---
-title: Ecological Ethics and Religion
+title: An Ecological Ethics for the Anthropocene
 lang: en-GB
 description: ''
 legacy:
@@ -10,11 +10,15 @@ legacy:
   venue: Science & Religion Forum General Conference
   location: Online
   date: '2024-10-01'
+date-label: November 2024
+venue: Science and Religion Forum Annual Conference
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">Science & Religion Forum General Conference<br>Online<br>Talk<br>2024-10-01</div>
+<div class="record-meta">Science and Religion Forum Annual Conference<br>Online<br>Talk<br>November 2024</div>
 ```
 
 Explored intersections between ecological ethics and religious thought at the Science & Religion Forum General Conference.

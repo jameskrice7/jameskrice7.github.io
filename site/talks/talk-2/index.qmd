@@ -10,11 +10,14 @@ legacy:
   venue: The Federal Reserve Bank of Boston
   date: '2019-11-26'
   location: Boston, Massachusetts
+venue: Boston Federal Reserve University Challenge
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">The Federal Reserve Bank of Boston<br>Boston, Massachusetts<br>Talk<br>2019-11-26</div>
+<div class="record-meta">Boston Federal Reserve University Challenge<br>Boston, Massachusetts<br>Talk<br>2019-11-26</div>
 ```
 
 Group presentation for a collegiate competition judged by Federal Reserve economists and academics. My contribution was the modeling section of the talk, where I explained the exploratory analysis and PCA model results.

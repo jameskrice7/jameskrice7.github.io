@@ -1,5 +1,5 @@
 ---
-title: 'Beyond post-truth: Projecting the future trajectory of climate misinformation'
+title: 'Beyond Post-Truth: Projecting the Future Trajectory of Climate Misinformation'
 lang: en-GB
 description: Climate misinformation represents one of the most significant barriers
   to effective climate action in the 21st century. Building upon Yotam Ophir’s framework,
@@ -23,7 +23,9 @@ legacy:
   paperurl: https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000916
   citation: 'Rice, James. (2026) "Beyond post-truth: Projecting the future trajectory
     of climate misinformation." <i>PLOS Climate</i> 5(5): e0000916.'
+cv-updated: '2026-09-27'
 ---
+
 
 
 ```{=html}

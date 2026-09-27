@@ -5,110 +5,286 @@ toc: true
 css: cv.css
 ---
 
+[Updated 27 September 2026]{.cv-updated}
 
+## Education
 
-Education
-------
-* Ph.D in Government, The University of Essex, 2027 (expected)
-* MSc in Philosophy of the Social Sciences, The London School of Economics and Political Science, 2024
-* MSc in Philosophy, Science and Religion, The University of Edinburgh, 2023
-* Postgraduate Certificate in Philosophy and Ethics, Harvard University, 2022
-* B.S. in Economics, The University of Connecticut, 2020
+- **Ph.D. in Government** — *University of Essex*  
+  October 2024–October 2027 *(expected)*.
+- **MSc in the Philosophy of the Social Sciences** — *London School of Economics and Political Science*  
+  September 2023–August 2024.
+- **MSc in Philosophy, Science and Religion** — *University of Edinburgh*  
+  September 2022–August 2023.
+- **Postgraduate Certificate in Philosophy and Ethics** — *Harvard Extension School*  
+  June 2021–May 2022.
+- **Bachelor of Science in Economics** — *University of Connecticut*  
+  August 2018–May 2020.
+- **Environmental and Resource Economics major; Political Science minor** — *University of New Hampshire*  
+  August 2014–May 2017. Transferred to the University of Connecticut in Fall 2018.
 
+## Work experience & teaching {#work-experience}
 
-Work experience
-------
-* October 2026 - Present: Fixed-Term Lecturer in Computational Social Science
-  * Department of Sociology and Criminology at the University of Essex
-    * Autumn 2026
-      * Introduction to Social Data Science (SC207, Instructor of Record)
-* August 2026 - Present: Mercatus Fellowship
-  * The Mercatus Center at George Mason University
-    * Applied Mainline Political Economy Track
-* July 2026: Teaching Assistant
-  * Essex Summer School in Social Science Data Analysis (TA for two courses in 2026)
-    * Applied Causal Inference with Observational Data
-    * Causal Inference and Experiments in the Social Sciences
-* April 2026 - September 2026: Research Assistant
-  * Department of Government, University of Essex
-    * RA for Tobias Bohmelt's project on global environmental attitudes
-* April 2026 - September 2026: Policy Fellowship
-  * Council for Countering Online Disinformation (CCOD) 
-* January 2026 - Present: Affiliate
-  * Hayek Programme at the London School of Economics and Political Science
-* December 2025 - Present: Teaching Assistant
-  * University College London (UCL) Department of Political Science and School of Public Policy
-    * Spring 2027
-      * Data Analysis (POLS0010) 
-    * Autumn 2026
-      * Ethics and Public Policy (POLS0064)
-    * Spring 2026
-      * Introduction to Quantitative Research Methods (POLS0008)
-      * Science, Scientific Discovery and Statistics (POLS0060)
-* November 2025 - Present: Research Fellowship
-  * Earth System Governance Project
-* August 2025 - August 2026: Ronald Coase Fellowship
-  * The Mercatus Center at George Mason University
-* July 2025 - August 2025: Teaching Assistant
-  * Essex Summer School in Social Science Data Analysis (TA for two courses in 2025)
-    * Introduction to Quantitative Text Analysis
-    * Quantitative Data Analysis and Statistical Graphics with R
-* March 2025 - February 2026: Research Associate in Online Moral Contagion at Oxford Internet Institute (OII)
-  * Oxford Computational Political Science Group
-* September 2023 - June 2024: Frédéric Bastiat Fellowship
-  * The Mercatus Center at George Mason University
-  
-Skills
-------
-* Programming:
-  * R
-  * Python
-  * LaTeX
-* Version Control:
-  * GitHub
-  * Git
-* Other Skills:
-  * MS Office
+- **Fixed-Term Lecturer in Computational Social Science** — *University of Essex, Department of Sociology and Criminology*  
+  October 2026–Present.
+  - *Introduction to Social Data Science* — **SC207**, Autumn 2026.
+- **Teaching Assistant** — *UCL Department of Political Science*  
+  September 2026–Present. Undergraduate courses:
+  - *Data Analysis* — **POLS0010**, Spring 2027.
+  - *Ethics and Public Policy* — **POLS0064**, Fall 2027.
+- **Mercatus Fellowship** — *The Mercatus Center at George Mason University*  
+  August 2026–Present. Applied Mainline Political Economy.
+- **Teaching Assistant** — *Essex Summer School in Social Science Data Analysis*  
+  July 2026. Postgraduate courses:
+  - *Applied Causal Inference with Observational Data*.
+  - *Causal Inference and Experiments in the Social Sciences*.
+- **Research Assistant for Professor Tobias Bohmelt** — *University of Essex, Department of Government*  
+  April 2026–September 2026.
+- **Policy Fellowship** — *Council for Countering Online Disinformation (CCOD)*  
+  April 2026–September 2026.
+- **Teaching Assistant** — *UCL Department of Political Science*  
+  January 2026–June 2026. Undergraduate courses:
+  - *Introduction to Quantitative Research Methods* — **POLS0008**, Spring 2026.
+  - *Science, Scientific Discovery and Statistics* — **POLS0060**, Spring 2026.
+- **Research Affiliate** — *LSE Hayek Programme in Liberal Political Economy*  
+  January 2026–Present.
+- **Research Fellowship** — *Earth System Governance Project*  
+  November 2025–Present.
+- **Ronald Coase Fellowship** — *The Mercatus Center at George Mason University*  
+  August 2025–August 2026.
+- **Teaching Assistant** — *Essex Summer School in Social Science Data Analysis*  
+  July 2025–August 2025. Postgraduate courses:
+  - *Introduction to Quantitative Text Analysis*.
+  - *Quantitative Data Analysis and Statistical Graphics with R*.
+- **Research Associate in Online Moral Contagion** — *Oxford Computational Political Science Group, Oxford Internet Institute (OII)*  
+  March 2025–March 2026.
+- **Frédéric Bastiat Fellowship** — *The Mercatus Center at George Mason University*  
+  September 2023–June 2024.
 
+## Publications
 
-Publications
-------
+- **[The Epistemic Frontier of Capitalism: A Theory of Epistemic Regression through Artificial Intelligence and Misinformation](/publications/epistemic_frontier_capitalism/)**  
+  *The Cambridge Journal of Artificial Intelligence* — July 2026.
+- **[The Liberal Order in Complex Societies Marred by Climate Change](/publications/liberal_order_complex_societies_climate_change/)**  
+  *Review of Evolutionary Political Economy* — May 2026.
+- **[Beyond Post-Truth: Projecting the Future Trajectory of Climate Misinformation](/publications/Beyond_post_truth_climate_misinformation/)**  
+  *PLOS Climate* — May 2026.
+- **[The Misinformation Challenge: How Information Freedom Promotes Democratic Discourse](/publications/misinformation_challenge_information_freedom/)**  
+  *Journal of Libertarian Studies* — January 2026.
+- **[Knowledge Asymmetries and Climate Finance: An Inquiry into Environmental Market Failures and Political Legitimacy](/publications/Knowledge_asymmetries_climate_finance/)**  
+  *The Cambridge Journal of Climate Research* — December 2025.
+- **[The Prospect of ‘Just Emissions’ as an International Norm of Environmental Governance](/publications/Just_emissions/)**  
+  *The Cambridge Journal of Climate Research* — December 2024.
 
+## Other publications
 
-```{=html}
-<div class="work-list"><article class="work-card"><p class="eyebrow">2026 · Cambridge Journal of Artificial Intelligence</p><h3><a href="/publications/epistemic_frontier_capitalism/">The Epistemic Frontier of Capitalism: A Theory of Epistemic Regression through Artificial Intelligence and Misinformation</a></h3><p>This article argues that contemporary capitalism has entered a phase in which outcomes are increasingly shaped by the privatization and strategic destabilization of the epistemic commons through frontier artificial intelligence and platform-mediated misinformation.</p><a class="text-link" href="/publications/epistemic_frontier_capitalism/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · Review of Evolutionary Political Economy</p><h3><a href="/publications/liberal_order_complex_societies_climate_change/">The liberal order in complex societies marred by climate change</a></h3><p>This essay develops a complexity-oriented research program for classical liberal thought, showing how rule-of-law institutions can enable cooperation amid political, economic, and environmental pressures from climate change.</p><a class="text-link" href="/publications/liberal_order_complex_societies_climate_change/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · PLOS Climate</p><h3><a href="/publications/Beyond_post_truth_climate_misinformation/">Beyond post-truth: Projecting the future trajectory of climate misinformation</a></h3><p>Climate misinformation represents one of the most significant barriers to effective climate action in the 21st century. Building upon Yotam Ophir’s framework, this essay examines how climate misinformation is evolving and projects its future trajectory.</p><a class="text-link" href="/publications/Beyond_post_truth_climate_misinformation/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · Journal of Libertarian Studies</p><h3><a href="/publications/misinformation_challenge_information_freedom/">The Misinformation Challenge: How Information Freedom Promotes Democratic Discourse</a></h3><p>The contemporary discourse surrounding misinformation has generated unprecedented calls for government intervention in information markets and content regulation. This article argues that decentralized information governance, market competition, and robust protections for free expression offer a stronger democratic response than top-down content controls.</p><a class="text-link" href="/publications/misinformation_challenge_information_freedom/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · Cambridge Journal of Climate Research</p><h3><a href="/publications/Knowledge_asymmetries_climate_finance/">Knowledge Asymmetries and Climate Finance: An Inquiry into Environmental Market Failures and Political Legitimacy</a></h3><p>In archetypal credit and capital markets, informational gaps can lead to the withdrawal of high-impact participants and incentivise excessive risk-taking by parties unaware of the risks they face. Within climate-related markets there is a similar trend: investors systematically underestimate tail risks associated with carbon-intensive assets—including risks from climate-caused natural events, which threaten those assets—while firms strategically under-disclose their exposure to these physical and transition risks.</p><a class="text-link" href="/publications/Knowledge_asymmetries_climate_finance/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · Cambridge Journal of Climate Research</p><h3><a href="/publications/Just_emissions/">The Prospect of Just Emissions as an International Norm of Environmental Governance</a></h3><p>So-called luxury emissions of Global North countries need to be curtailed in line with, and also more rapidly than, the increase in emissions from Global South nations. I argue there is a growing need for radical social austerity and climate conservatism on the part of large emitters.</p><a class="text-link" href="/publications/Just_emissions/">Read more <span aria-hidden="true">↗</span></a></article></div>
-```
+- **[Digital Resilience in the Age of Synthetic Media](/writing/digital-resilience-in-the-age-of-synthetic-media/)**  
+  *The Loop: European Consortium for Political Research Blog* — February 2026.
+- **[How Social Media and Online Communities Influence Climate Change Beliefs](/writing/the-loop/)**  
+  *The Loop: European Consortium for Political Research Blog* — March 2025.
+- **[The Smart Era](/files/james-rice-the-smart-era-portfolio.pdf)**  
+  *Digital Frontier Magazine* — March 2025.
+- **[An Ecological Ethics for the Anthropocene: A Call to Reimagine Religion and Nature](/writing/ecological-ethics/)**  
+  *LSE Religion and Global Society Blog* — January 2025.
+- **[Studying Through Adversity: How Equity, Diversity and Inclusion Works at LSE](/writing/studying-through-adversity/)**  
+  *Students@LSE Blog* — May 2024.
 
+## Working papers
 
+- **Stochastic Deep Learning: A Probabilistic Framework for Modeling Uncertainty in Structured Temporal Data**.
+- **Modeling Infrastructure and Climate from the World Bank’s Enterprise Surveys**.
+- **Interdisciplinarity in International Sustainable Business**.
+- **International Norms of Environmental Governance: The Transnational Management of Developmental and Ecological Justice**.
+- **The Social Justification of Climate Change Beliefs and Environmental Communication**.
 
-Working Papers
-------
+## Further academic study
 
+- **UCL Teaching Associate Programme (TAP)** — May 2026.  
+  Completed UCL’s *PGTA teaching training course* in preparation for an AFHEA application.
+- **Oxford University Economics Summer School** — September 2025.  
+  Completed two courses in *Machine Learning* and *Behavioral Macroeconomics*.
+- **LSE Faith Centre and Cambridge University InterFaith Programme** — July 2024.  
+  Summer School on *Religion and Climate Futures*.
+- **LSE Faith Centre Beecken Faith and Leadership Programme** — January–March 2024.  
+  Segments on *Religion and Climate Change* and *Conflict Transformations*.
+- **Utrecht University** — August 2021.  
+  Summer School on *The Posthuman and New Materialist Philosophy*.
+- **New England Complex Systems Institute** — January 2020.  
+  Winter School in *Complex Systems Science*.
+- **London School of Economics and Political Science** — June 2018–August 2018.  
+  Summer School in *Advanced Econometrics and Statistics*.
+- **United Nations Institute for Training and Research** — January 2018–June 2018.  
+  *International Relations and Global Diplomacy Graduate Diploma*.
+- **University of New Hampshire** — May 2017–August 2017.  
+  *UNH Social Innovation Intern*.
 
-```{=html}
-<div class="work-list"><article class="work-card"><p class="eyebrow">2025 · Under Review at <i>Ecological Economics</i></p><h3><a href="/working_papers/climate_misinformation_esg/">Does Climate Misinformation Affect ESG Performance? Evidence from Social Media and Firm-Level Data</a></h3><p>This paper combines social media analytics with corporate performance data to test how misinformation surrounding climate change influences firms' ESG outcomes.</p><a class="text-link" href="/working_papers/climate_misinformation_esg/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · Working Paper</p><h3><a href="/working_papers/liberal_complexity/">Climate Change and Complexity in Classical Liberal Theories of Development</a></h3><p>In this essay, I develop a complexity-based theory of social interaction within legal constraints, highlighting how rule-of-law institutions enable cooperation even in the face of intricate political and economic pressures based on inequities in mitigating and preparing for climate change..</p><a class="text-link" href="/working_papers/liberal_complexity/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · Under Review at <i>Political Theology</i></p><h3><a href="/working_papers/religious_political_neutrality/">To What Extent Are Religious Political Actors Constrained by Political Neutrality?</a></h3><p>This article examines doctrinal debates about neutrality to assess how religious actors navigate political advocacy in pluralist democracies.</p><a class="text-link" href="/working_papers/religious_political_neutrality/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · Working paper with Charles Mensah</p><h3><a href="/working_papers/Sustainable_business/">Interdisciplinarity in International Sustainable Business</a></h3><p>This essay proposes that international business - characterized most prominently by the multinational corporation (MNC) - is defined by the types of social problems it wishes to solve. It is also defined by the manner, strategy, or approach that it uses to define the problem landscape and technological or product-related solution space.</p><a class="text-link" href="/working_papers/Sustainable_business/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · Working Paper</p><h3><a href="/working_papers/religious_political_morality/">The Social Construction of Religious Political Morality</a></h3><p>This is my LSE dissertation. It is currently a conference paper, as I prepare for publication.</p><a class="text-link" href="/working_papers/religious_political_morality/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · Working Paper</p><h3><a href="/working_papers/Climate_Misinformation/">Climate Change Misinformation and Integrity in Environmental Communication</a></h3><p>While our beliefs about crucial political issues such as climate change are shaped by a variety of psychological and socioeconomic influences, this essay argues that one source of those beliefs comes from the responsibility that climate scientists have, as domain experts on the science and policy of climate change, to protect the public from misinformation.</p><a class="text-link" href="/working_papers/Climate_Misinformation/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · Science & Religion Forum 2024 Conference</p><h3><a href="/working_papers/ecological_ethics/">An Ecological Ethics for the Anthropocene: Environmental Justice and Religion</a></h3><p>This essay examines the relationship between critical theological theories within avant-garde scholarship on religion as a social phenomenon and the equally, if not more, pressing revelations of climate scientists regarding the ecological crisis which is partly the result of a society whose faith has been misplaced in a form of unsustainable technology which threatens to destroy us.</p><a class="text-link" href="/working_papers/ecological_ethics/">Read more <span aria-hidden="true">↗</span></a></article></div>
-```
+## Conference & seminar presentations {#talks}
 
+### University of Essex
 
+- **Does Climate Misinformation Exacerbate Information Asymmetry?**  
+  *ECPR General Conference* — September 2026.
+- **From Doctoral Training to Academic Leadership Invited Panel**  
+  *ISA Virtual Conference* — July 2026.
+- **Does Climate Misinformation Exacerbate Information Asymmetry?**  
+  *ISA Virtual Conference* — July 2026.
+- **Does Climate Misinformation Exacerbate Information Asymmetry?**  
+  *SASE General Conference* — July 2026.
+- **Does Climate Misinformation affect ESG Performance**  
+  *EPSS Annual Conference* — June 2026.
+- **Does Climate Misinformation Exacerbate Information Asymmetry?**  
+  *Essex Sustainable Transitions Annual Conference* — June 2026.
+- **Neural SDEs for Finance and Asset Pricing**  
+  *JARGON (Essex Internal Seminar)* — June 2026.
+- **SCAIRY BioYUFE Adaptation Invited Panel**  
+  *BioYUFE Webinar* — June 2026.
+- **Does Climate Misinformation Exacerbate Information Asymmetry?**  
+  *JARGON (Essex Internal Seminar)* — December 2025.
+- **Does Climate Misinformation Affect ESG Performance?**  
+  *Climate, Finance, and Economic Sustainability Workshop, University of Leicester* — December 2025.
+- **Cutting Edge Artificial Intelligence Research**  
+  *HEROES (Essex Internal Seminar)* — November 2025.
+- **Panel Talk on Climate Misinformation**  
+  *BioYUFE Meeting (Essex)* — September 2025.
+- **Does Climate Misinformation Affect ESG Performance?**  
+  *EBS Research Conference (Essex)* — September 2025.
+- **Are Religious Political Actors Constrained by Political Neutrality?**  
+  *ECPR General Conference* — August 2025.
+- **The Effect of Climate Misinformation on Markets and Policy**  
+  *ClimateNLP Seminar* — August 2025.
+- **Literature Gaps in Moral Contagion Theory**  
+  *Oxford OCPSG Internal Presentation* — July 2025.
+- **Structural Incentives in Complex Societies Marred by Climate Change**  
+  *Association of Heterodox Economics Annual Conference* — June 2025.
+- **Climate Discourse and ESG Performance in the Post-Truth Era**  
+  *Essex Sustainable Transitions Annual Conference* — June 2025.
+- **The Effect of Climate Misinformation on Climate Policy Uncertainty**  
+  *Essex Government Department PEPSI Seminar* — March 2025.
+- **Frontier Methods in Political Methodology**  
+  *HEROES (Essex Gov Internal Seminar)* — January 2025.
+- **An Ecological Ethics for the Anthropocene**  
+  *Science and Religion Forum Annual Conference* — November 2024.
+- **International Norms of Environmental Governance**  
+  *Essex Government Conflict Seminar* — November 2024.
 
-Talks
-------
+### London School of Economics and Political Science
 
+- **The Social Construction of Religious Political Morality**  
+  *LSE MSc Dissertation Seminar* — May 2024.
+- **Political Liberalism and Moral Pluralism**  
+  *Political Philosophy of Environmental Change Classroom Seminar* — November 2023.
 
-```{=html}
-<div class="work-list"><article class="work-card"><p class="eyebrow">2026 · ECPR General Conference</p><h3><a href="/talks/talk-32">Does Climate Misinformation Exacerbate Information Asymmetry?</a></h3><p>Examined how climate misinformation may exacerbate information asymmetry in political and economic decision-making around climate governance.</p><a class="text-link" href="/talks/talk-32">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · ISA Virtual Conference</p><h3><a href="/talks/talk-30">Does Climate Misinformation Exacerbate Information Asymmetry?</a></h3><p>Discussed how climate misinformation may reshape information asymmetry in international and comparative contexts by affecting trust, disclosure, and policy coordination.</p><a class="text-link" href="/talks/talk-30">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · ISA Virtual Conference</p><h3><a href="/talks/talk-31">From Doctoral Training to Academic Leadership Invited Panel</a></h3><p>Reflected on the transition from doctoral training to academic leadership, emphasizing research identity, professional development, mentoring, and institutional contribution.</p><a class="text-link" href="/talks/talk-31">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · SASE General Conference</p><h3><a href="/talks/talk-29">Does Climate Misinformation Exacerbate Information Asymmetry?</a></h3><p>Developed the argument that climate misinformation can distort information environments and intensify asymmetries relevant to economic governance and sustainable markets.</p><a class="text-link" href="/talks/talk-29">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · EPSS Annual Conference</p><h3><a href="/talks/talk-28">Does Climate Misinformation affect ESG Performance</a></h3><p>Presented research on whether climate misinformation is associated with changes in firm-level ESG performance and sustainability-related market signals.</p><a class="text-link" href="/talks/talk-28">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · Essex Sustainable Transitions Annual Conference (University of Essex)</p><h3><a href="/talks/talk-27">Does Climate Misinformation Exacerbate Information Asymmetry?</a></h3><p>Explored how misleading climate information may widen information asymmetries between firms, investors, policymakers, and publics during sustainability transitions.</p><a class="text-link" href="/talks/talk-27">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · JARGON (University of Essex ISER Seminar)</p><h3><a href="/talks/talk-26">Neural SDEs for Finance and Asset Pricing</a></h3><p>Outlined how neural stochastic differential equations can model uncertainty, nonlinear dynamics, and continuous-time structure in finance and asset pricing applications.</p><a class="text-link" href="/talks/talk-26">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2026 · BioYUFE Webinar</p><h3><a href="/talks/talk-25">SCAIRY BioYUFE Adaptation Invited Panel</a></h3><p>Discussed nature-based climate adaptation through an interdisciplinary lens, emphasizing how communication, local context, and misinformation shape public understanding of adaptation strategies.</p><a class="text-link" href="/talks/talk-25">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · Climate, Finance, and Economic Sustainability Workshop (University of Leicester)</p><h3><a href="/talks/talk-23">Does Climate Misinformation Affect ESG Performance? Evidence from Social Media and Firm-Level Data</a></h3><p></p><a class="text-link" href="/talks/talk-23">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · JARGON (University of Essex ISER Seminar)</p><h3><a href="/talks/talk-22">Does Climate Misinformation Exacerbate Information Asymmetry?</a></h3><p></p><a class="text-link" href="/talks/talk-22">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · HEROES (University of Essex Department of Government Seminar)</p><h3><a href="/talks/talk-24">Cutting Edge Artificial Intelligence Research: Attention, Transformers, Embeddings, and MLOps</a></h3><p></p><a class="text-link" href="/talks/talk-24">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · BioYUFE meeting (University of Essex Event)</p><h3><a href="/talks/talk-21">Panel talk on Climate Misinformation</a></h3><p></p><a class="text-link" href="/talks/talk-21">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · EBS Research Conference (University of Essex Business School)</p><h3><a href="/talks/talk-20">Does Climate Misinformation Affect ESG Performance? Evidence from Social Media and Firm-Level Data</a></h3><p></p><a class="text-link" href="/talks/talk-20">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · ECPR General Conference</p><h3><a href="/talks/talk-12">To What Extent Are Religious Political Actors Constrained by Political Neutrality?</a></h3><p></p><a class="text-link" href="/talks/talk-12">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · ClimateNLP Seminar</p><h3><a href="/talks/talk-16">The Corrupting Effect of Climate Misinformation on both Markets and Policy Making</a></h3><p></p><a class="text-link" href="/talks/talk-16">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · Oxford OCPSG internal presentation</p><h3><a href="/talks/talk-19">Literature Gaps in Moral Contagion Theory</a></h3><p></p><a class="text-link" href="/talks/talk-19">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · Association for Heterodox Economics General Conference</p><h3><a href="/talks/talk-14">The Liberal Order in Complex Societies Marred by Climate Change: A Heterodox Liberalism for the Anthropocene</a></h3><p></p><a class="text-link" href="/talks/talk-14">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · Sustainable Transitions Conference (Essex)</p><h3><a href="/talks/talk-13">Does Climate Misinformation Affect ESG Performance? Evidence from Social Media and Firm-Level Data</a></h3><p></p><a class="text-link" href="/talks/talk-13">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2025 · HEROES (University of Essex Department of Government Seminar)</p><h3><a href="/talks/talk-18">Frontier Methods in Political Methodology</a></h3><p></p><a class="text-link" href="/talks/talk-18">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · Department of Government Conflict/IR Seminar, University of Essex</p><h3><a href="/talks/talk-11">International Norms of Environmental Governance: The Prospect of Just Emissions in English School Political Economy</a></h3><p></p><a class="text-link" href="/talks/talk-11">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · Conflict/IR Seminar (University of Essex Seminar)</p><h3><a href="/talks/talk-15">International Norms of Environmental Governance</a></h3><p></p><a class="text-link" href="/talks/talk-15">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · Science & Religion Forum General Conference</p><h3><a href="/talks/talk-17">Ecological Ethics and Religion</a></h3><p></p><a class="text-link" href="/talks/talk-17">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · The London School of Economics and Political Science </p><h3><a href="/talks/talk-10">The Social Construction of Religious Political Morality</a></h3><p></p><a class="text-link" href="/talks/talk-10">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · The London School of Economics and Political Science </p><h3><a href="/talks/talk-9">Newsflash on Climate Change Misinformation</a></h3><p></p><a class="text-link" href="/talks/talk-9">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2024 · The London School of Economics and Political Science</p><h3><a href="/talks/talk-8">Complex Environmental Systems</a></h3><p></p><a class="text-link" href="/talks/talk-8">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2023 · The London School of Economics and Political Science</p><h3><a href="/talks/talk-7">Political Liberalism and Moral Pluralism</a></h3><p></p><a class="text-link" href="/talks/talk-7">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2023 · The University of Edinburgh</p><h3><a href="/talks/talk-6">Darwin and Natural Theology</a></h3><p></p><a class="text-link" href="/talks/talk-6">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2022 · Harvard Extension School</p><h3><a href="/talks/talk-5">St. Augustine&#x27;s Confessions</a></h3><p></p><a class="text-link" href="/talks/talk-5">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2020 · The University of Connecticut</p><h3><a href="/talks/talk-4">American Derivative Securities</a></h3><p></p><a class="text-link" href="/talks/talk-4">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2020 · The University of Connecticut</p><h3><a href="/talks/talk-3">Using Machine Learning for Macroeconomic Prediction</a></h3><p></p><a class="text-link" href="/talks/talk-3">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2019 · The Federal Reserve Bank of Boston</p><h3><a href="/talks/talk-2">Stabilizing Monetary Policy in an Uncertain World</a></h3><p></p><a class="text-link" href="/talks/talk-2">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow">2017 · The University of New Hampshire</p><h3><a href="/talks/talk-1">ESG Investing and Carbon Footprint Measurement</a></h3><p></p><a class="text-link" href="/talks/talk-1">Read more <span aria-hidden="true">↗</span></a></article></div>
-```
+### University of Edinburgh
 
+- **Darwin and Natural Theology**  
+  *Life and Mind Classroom Seminar* — February 2023.
 
+### Harvard Extension School
 
+- **St. Augustine’s Confessions**  
+  *HES Graduate Student Association Conference* — December 2021.
 
-  
-Service and leadership
-------
-  
+### University of Connecticut
 
-```{=html}
-<div class="work-list"><article class="work-card"><p class="eyebrow">2023 · </p><h3><a href="/service_and_leadership/MAP/">LSE Minorities and Philosophy (MAP) Committee Member</a></h3><p></p><a class="text-link" href="/service_and_leadership/MAP/">Read more <span aria-hidden="true">↗</span></a></article></div>
-```
+- **American Derivative Securities**  
+  *Ph.D. Econometrics III Course Seminar* — April 2020.
+- **Using Machine Learning for Macroeconomic Prediction**  
+  *UConn Economics Society* — February 2020.
+- **Stabilizing Monetary Policy In an Uncertain World**  
+  *Boston Federal Reserve University Challenge* — November 2019.
 
+## Reviewing
 
+**Reviewer for:**
+
+- *PLOS Climate*.
+- *Open Economies Review*.
+
+## Awards
+
+### University of Essex
+
+- **Mercatus Center Mercatus Fellowship** — **US$2,500**, August 2026.
+- **Mercatus Center Ronald Coase Fellowship** — **US$1,750**, August 2025.
+- **ECPR General Conference Grant** — **£500**, August 2025.
+- **Leverhulme Sustainable Transitions PhD Scholarship** — October 2024–October 2027.
+
+### London School of Economics and Political Science
+
+- **LSE Faith Centre “Religion and Climate Futures” Summer School** — **£1,500**, July 2024.
+- **LSE CIVICA Warsaw Sport and Culture Festival** — **£1,000**, June 2024.
+- **Mercatus Center Frédéric Bastiat Fellowship** — **US$5,000**, 2023–2024.
+
+### University of Connecticut
+
+- **Charles Triano Scholarship**, *UConn Economics Department* — **US$1,000**, May 2020.
+- **UConn Economics Department General Scholarship** — **US$1,000**, April 2019.
+
+### University of New Hampshire
+
+- **Dean’s List** — Spring 2016.
+- **Dean’s List** — Fall 2016.
+
+## Community involvement {#service-and-leadership}
+
+### University of Essex
+
+- **Student Member** — *Society for the Advancement of Socio-Economics (SASE)*  
+  May 2026–Present.
+- **Student Member** — *European Political Science Society (EPSS)*  
+  March 2026–Present.
+- **Student Member** — *European Consortium for Political Research (ECPR)*  
+  October 2024–Present.
+- **Student Member** — *American Association for Public Opinion Research (AAPOR)*  
+  October 2024–October 2025.
+- **Student Member** — *American Political Science Association (APSA)*  
+  October 2024–Present.
+- **Student Member** — *International Political Science Association (IPSA)*  
+  October 2024–October 2025.
+
+### London School of Economics
+
+- **Student Member** — *The Hume Society*  
+  April 2024–June 2026.
+- **Student Member** — *Science and Religion Forum*  
+  April 2024–January 2026.
+- **Mentee** — *Career Accelerator Neurodiversity and Disability Mentoring Programme*  
+  May 2024–August 2024.
+- **Organizing Member** — *LSE Philosophy Minorities and Philosophy (MAP) Group*  
+  September 2023–September 2024.
+- **Member** — *LSE Philosophy Society*  
+  September 2023–September 2024.
+- **Member** — *LSE Hayek Society*  
+  September 2023–September 2024.
+- **Member** — *LSE Effective Altruism (EA) Society*  
+  September 2023–September 2024.
+
+### Harvard Extension School / University of Edinburgh
+
+- **Member** — *The Philosophy, Politics, and Economics Society (PPE Society)*  
+  January 2023–Present.
+- **Member, NYC Chapter** — *United Nations Association of The United States*  
+  January 2021–January 2025.
+- **Youth Member / Participant** — *YOUNGO Youth Constituency to the UNFCCC*  
+  February 2021–January 2022.
+
+### University of Connecticut
+
+- **Member and Lead Administrator** — *Omicron Delta Epsilon, UConn Honor Society in Economics*  
+  April 2019–May 2020.
+- **President** — *UConn Economics Society*  
+  November 2019–May 2020.
+- **UConn Fed Challenge Team** — September 2019–May 2020.  
+  Presented original macroeconomic research at the *Federal Reserve Bank of Boston*.
+- **Social Media Chair** — *UConn Women and Minorities in Economics Society*  
+  January 2019–November 2019.
+
+### University of New Hampshire
+
+- **UNH Model United Nations Team** — September 2015–May 2017.  
+  Participant in *Model UN ECOSOC negotiations* at the New York City Conference in Spring 2016 and Spring 2017.
+
+## Skills
+
+- **Programming:** *R, Python, LaTeX*.
+- **Version control:** *Git and GitHub*.
+- **Other tools:** *Microsoft Office*.

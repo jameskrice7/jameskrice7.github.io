@@ -1,0 +1,13 @@
+---
+title: Modeling Infrastructure and Climate from the World Bank’s Enterprise Surveys
+lang: en-GB
+cv-updated: '2026-09-27'
+venue: Working paper
+---
+
+
+```{=html}
+<div class="record-meta">Working paper</div>
+```
+
+

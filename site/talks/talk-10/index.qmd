@@ -10,11 +10,14 @@ legacy:
   venue: 'The London School of Economics and Political Science '
   date: '2024-05-12'
   location: London, UK
+venue: LSE MSc Dissertation Seminar
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">The London School of Economics and Political Science <br>London, UK<br>Talk<br>2024-05-12</div>
+<div class="record-meta">LSE MSc Dissertation Seminar<br>London, UK<br>Talk<br>2024-05-12</div>
 ```
 
 Presented my work in progress MSc dissertation to a group of peers from the Department of Philosophy, Logic and Scientific Method at LSE.

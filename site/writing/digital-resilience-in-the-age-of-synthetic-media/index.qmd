@@ -1,5 +1,5 @@
 ---
-title: Digital resilience in the age of synthetic media
+title: Digital Resilience in the Age of Synthetic Media
 lang: en-GB
 description: ''
 legacy:
@@ -10,7 +10,9 @@ legacy:
   venue: ECPR's The Loop Blog
   date: '2026-02-26'
   link: https://theloop.ecpr.eu/digital-resilience-in-the-age-of-synthetic-media/
+cv-updated: '2026-09-27'
 ---
+
 
 
 ```{=html}

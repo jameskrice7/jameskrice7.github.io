@@ -10,11 +10,14 @@ legacy:
   venue: The University of Connecticut
   date: '2020-04-10'
   location: Storrs, Connecticut
+venue: Ph.D. Econometrics III Course Seminar
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">The University of Connecticut<br>Storrs, Connecticut<br>Talk<br>2020-04-10</div>
+<div class="record-meta">Ph.D. Econometrics III Course Seminar<br>Storrs, Connecticut<br>Talk<br>2020-04-10</div>
 ```
 
 Presentation on US options pricing given to advanced PhD level class on Financial Econometrics. Talk based on Schreve's "Stochastic Calculus for Finance II" book, Chapter 8.

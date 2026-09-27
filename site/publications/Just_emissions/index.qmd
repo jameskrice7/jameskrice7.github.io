@@ -1,5 +1,6 @@
 ---
-title: The Prospect of Just Emissions as an International Norm of Environmental Governance
+title: The Prospect of ‘Just Emissions’ as an International Norm of Environmental
+  Governance
 lang: en-GB
 description: So-called luxury emissions of Global North countries need to be curtailed
   in line with, and also more rapidly than, the increase in emissions from Global
@@ -25,11 +26,14 @@ legacy:
   citation: Rice, James. (2024). &quot;The Prospect of Just Emissions as an International
     Norm of Environmental Governance.&quot; <i>Cambridge Journal of Climate Research</i>,
     1(2), 194-203.
+date-label: December 2024
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">James Kennon Rice<br>Cambridge Journal of Climate Research<br>2024-11-01</div>
+<div class="record-meta">James Kennon Rice<br>Cambridge Journal of Climate Research<br>December 2024</div>
 ```
 
 ```{=html}

@@ -1,5 +1,5 @@
 ---
-title: The liberal order in complex societies marred by climate change
+title: The Liberal Order in Complex Societies Marred by Climate Change
 lang: en-GB
 description: This essay develops a complexity-oriented research program for classical
   liberal thought, showing how rule-of-law institutions can enable cooperation amid
@@ -21,7 +21,9 @@ legacy:
   citation: Rice, James. (2026). "The liberal order in complex societies marred by
     climate change." <i>Review of Evolutionary Political Economy</i>, 7, Article 16.
     https://doi.org/10.1007/s43253-026-00184-6
+cv-updated: '2026-09-27'
 ---
+
 
 
 ```{=html}

@@ -1,0 +1,14 @@
+---
+title: 'International Norms of Environmental Governance: The Transnational Management
+  of Developmental and Ecological Justice'
+lang: en-GB
+cv-updated: '2026-09-27'
+venue: Working paper
+---
+
+
+```{=html}
+<div class="record-meta">Working paper</div>
+```
+
+

@@ -1,0 +1,14 @@
+---
+title: 'Stochastic Deep Learning: A Probabilistic Framework for Modeling Uncertainty
+  in Structured Temporal Data'
+lang: en-GB
+cv-updated: '2026-09-27'
+venue: Working paper
+---
+
+
+```{=html}
+<div class="record-meta">Working paper</div>
+```
+
+

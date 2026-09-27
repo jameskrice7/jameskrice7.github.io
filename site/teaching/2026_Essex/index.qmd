@@ -1,0 +1,18 @@
+---
+title: Fixed-Term Lecturer in Computational Social Science
+lang: en-GB
+cv-updated: '2026-09-27'
+date-label: October 2026–Present
+venue: University of Essex, Department of Sociology and Criminology
+---
+
+
+```{=html}
+<div class="record-meta">University of Essex, Department of Sociology and Criminology<br>October 2026–Present</div>
+```
+
+<div class="teaching-hero"><p class="teaching-hero-label">Fixed-Term Lecturer in Computational Social Science</p><h2>University of Essex, Department of Sociology and Criminology</h2></div>
+
+## Courses
+
+- **SC207: Introduction to Social Data Science** — *Autumn 2026*.

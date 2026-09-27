@@ -1,0 +1,14 @@
+---
+title: The Effect of Climate Misinformation on Climate Policy Uncertainty
+lang: en-GB
+cv-updated: '2026-09-27'
+date-label: March 2025
+venue: Essex Government Department PEPSI Seminar
+---
+
+
+```{=html}
+<div class="record-meta">Essex Government Department PEPSI Seminar<br>March 2025</div>
+```
+
+Presented at the Essex Government Department PEPSI Seminar.

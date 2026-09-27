@@ -22,11 +22,13 @@ legacy:
     title: 'POLS0008: Introduction to Quantitative Research Methods'
   - term: Spring 2026
     title: 'POLS0060: Science, Scientific Discovery and Statistics'
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">University College London (UCL) Department of Political Science<br>London<br>Undergraduate Courses<br>2026-01-01</div>
+<div class="record-meta">University College London (UCL) Department of Political Science<br>London<br>Undergraduate Courses<br>January–June 2026; September 2026–Present</div>
 ```
 
 <div class="teaching-hero">
@@ -46,7 +48,7 @@ legacy:
   </section>
 
   <section class="teaching-course-card" id="pols0064-ethics-public-policy">
-    <p class="teaching-card-kicker">Autumn 2026</p>
+    <p class="teaching-card-kicker">Fall 2027</p>
     <h3>POLS0064: Ethics and Public Policy</h3>
     <div class="teaching-materials" id="ucl-pols0064-ethics-public-policy-slides"><h4>Seminar slides</h4><div class="week-grid"><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-01.pdf"><strong>Week 01</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-02.pdf"><strong>Week 02</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-03.pdf"><strong>Week 03</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-04.pdf"><strong>Week 04</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-05.pdf"><strong>Week 05</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-06.pdf"><strong>Week 06</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-07.pdf"><strong>Week 07</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-08.pdf"><strong>Week 08</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-09.pdf"><strong>Week 09</strong><span>Coming soon</span></div><div class="week" data-slide-path="/files/teaching/ucl-pols0064-ethics-public-policy/seminar-materials/slides/week-10.pdf"><strong>Week 10</strong><span>Coming soon</span></div></div></div>
   </section>

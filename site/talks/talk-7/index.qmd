@@ -10,11 +10,14 @@ legacy:
   venue: The London School of Economics and Political Science
   date: '2023-11-25'
   location: London, UK
+venue: Political Philosophy of Environmental Change Classroom Seminar
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">The London School of Economics and Political Science<br>London, UK<br>Talk<br>2023-11-25</div>
+<div class="record-meta">Political Philosophy of Environmental Change Classroom Seminar<br>London, UK<br>Talk<br>2023-11-25</div>
 ```
 
 Presentation of my research proposal for my MSc dissertation. Feedback-based talk on Rawlsian liberal political theory and climate ethics.

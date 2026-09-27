@@ -10,11 +10,14 @@ legacy:
   venue: The University of Connecticut
   date: '2020-02-17'
   location: Storrs, Connecticut
+venue: UConn Economics Society
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">The University of Connecticut<br>Storrs, Connecticut<br>Talk<br>2020-02-17</div>
+<div class="record-meta">UConn Economics Society<br>Storrs, Connecticut<br>Talk<br>2020-02-17</div>
 ```
 
 Presentation given to UConn's Economics Society, a student organization. I presented results from a Principal Components Analysis (PCA) methodology applied to a large macroeconomic dataset, FRED-MD, from the St. Louis Federal Reserve Bank.

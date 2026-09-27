@@ -10,11 +10,14 @@ legacy:
   venue: The London School of Economics and Political Science
   date: '2018-06-15'
   location: London, UK
+date-label: June–August 2018
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">The London School of Economics and Political Science<br>London, UK<br>Postgraduate course<br>2018-06-15</div>
+<div class="record-meta">The London School of Economics and Political Science<br>London, UK<br>Postgraduate course<br>June–August 2018</div>
 ```
 
 Three month summer school. Courses included advanced econometrics, advanced statistics, and the economic history of financial markets.

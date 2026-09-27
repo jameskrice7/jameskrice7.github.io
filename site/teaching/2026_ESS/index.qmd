@@ -1,0 +1,19 @@
+---
+title: Teaching Assistant — Essex Summer School 2026
+lang: en-GB
+cv-updated: '2026-09-27'
+date-label: July 2026
+venue: Essex Summer School in Social Science Data Analysis
+---
+
+
+```{=html}
+<div class="record-meta">Essex Summer School in Social Science Data Analysis<br>July 2026</div>
+```
+
+<div class="teaching-hero"><p class="teaching-hero-label">Teaching Assistant — Essex Summer School 2026</p><h2>Essex Summer School in Social Science Data Analysis</h2></div>
+
+## Courses
+
+- **Applied Causal Inference with Observational Data** — *July 2026*.
+- **Causal Inference and Experiments in the Social Sciences** — *July 2026*.

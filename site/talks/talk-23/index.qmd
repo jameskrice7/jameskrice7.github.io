@@ -1,6 +1,5 @@
 ---
-title: Does Climate Misinformation Affect ESG Performance? Evidence from Social Media
-  and Firm-Level Data
+title: Does Climate Misinformation Affect ESG Performance?
 lang: en-GB
 description: ''
 legacy:
@@ -12,7 +11,9 @@ legacy:
   venue: Climate, Finance, and Economic Sustainability Workshop (University of Leicester)
   location: Online
   date: '2025-12-10'
+cv-updated: '2026-09-27'
 ---
+
 
 
 ```{=html}

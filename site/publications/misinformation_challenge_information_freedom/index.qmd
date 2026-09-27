@@ -28,11 +28,14 @@ legacy:
   citation: 'Rice, James. (2026). "The Misinformation Challenge: How Information Freedom
     Promotes Democratic Discourse." <i>Journal of Libertarian Studies</i>, 29(2),
     176-208.'
+date-label: January 2026
+cv-updated: '2026-09-27'
 ---
 
 
+
 ```{=html}
-<div class="record-meta">James Kennon Rice<br>Journal of Libertarian Studies<br>2026-02-05</div>
+<div class="record-meta">James Kennon Rice<br>Journal of Libertarian Studies<br>January 2026</div>
 ```
 
 ```{=html}

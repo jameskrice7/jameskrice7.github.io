@@ -1,6 +1,5 @@
 ---
-title: The Corrupting Effect of Climate Misinformation on both Markets and Policy
-  Making
+title: The Effect of Climate Misinformation on Markets and Policy
 lang: en-GB
 description: ''
 legacy:
@@ -11,7 +10,9 @@ legacy:
   permalink: /talks/talk-16
   venue: ClimateNLP Seminar
   date: '2025-08-15'
+cv-updated: '2026-09-27'
 ---
+
 
 
 ```{=html}
