@@ -1,0 +1,20 @@
+---
+title: LSE Summer School 2018
+lang: en-GB
+description: ''
+legacy:
+  title: LSE Summer School 2018
+  layout: single
+  type: Postgraduate course
+  permalink: /training/training-2/
+  venue: The London School of Economics and Political Science
+  date: '2018-06-15'
+  location: London, UK
+---
+
+
+```{=html}
+<div class="record-meta">The London School of Economics and Political Science<br>London, UK<br>Postgraduate course<br>2018-06-15</div>
+```
+
+Three month summer school. Courses included advanced econometrics, advanced statistics, and the economic history of financial markets.

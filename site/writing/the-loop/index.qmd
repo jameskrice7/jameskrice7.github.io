@@ -1,0 +1,24 @@
+---
+title: How Social Media and Online Communities Influence Climate Change Beliefs
+lang: en-GB
+description: ''
+legacy:
+  title: How Social Media and Online Communities Influence Climate Change Beliefs
+  collection: writing
+  type: Article
+  permalink: /writing/the-loop
+  venue: ECPR's The Loop Blog
+  date: '2025-03-25'
+  link: https://theloop.ecpr.eu/how-social-media-and-online-communities-influence-climate-change-beliefs/
+---
+
+
+```{=html}
+<div class="record-meta">ECPR's The Loop Blog<br>Article<br>2025-03-25</div>
+```
+
+```{=html}
+<div class="record-links"><a class="text-link" href="https://theloop.ecpr.eu/how-social-media-and-online-communities-influence-climate-change-beliefs/">Read original ↗</a></div>
+```
+
+Coverage of political misinformation and the science of climate change.

@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+  post-render:
+  - python post-render.py
+  render:
+  - '**/*.qmd'
+  - '!assets/**'
+  - '!talkmap/**'
+  - '!images/**'
+  resources:
+  - files/**
+  - images/**
+  - assets/**
+  - talkmap/**
+  - home.css
+  - _working_papers/*.pdf
+  - _pages/*.png
+  - resume/index.html
+  - md/index.html
+  - markdown.html
+  - nmp/index.html
+  - nmp.html
+  - wordpress/blog-posts/index.html
+website:
+  title: James Kennon Rice
+  site-url: https://jameskrice7.github.io
+  description: Political science, misinformation, and sustainable transitions.
+  navbar:
+    background: '#f7f5ef'
+    foreground: '#182a35'
+    left:
+    - text: Research
+      href: publications/index.qmd
+    - text: Writing
+      href: writing/index.qmd
+    - text: Talks
+      href: talks/index.qmd
+    - text: Teaching
+      href: teaching/index.qmd
+    - text: Training
+      href: training/index.qmd
+    - text: CV
+      href: cv/index.qmd
+    right:
+    - icon: github
+      href: https://github.com/jameskrice7
+      aria-label: GitHub profile
+  page-footer:
+    left: © 2026 James Kennon Rice
+    right:
+    - text: Sitemap
+      href: sitemap/index.qmd
+    - text: Contact
+      href: mailto:James.K.Rice@essex.ac.uk
+  search:
+    location: navbar
+    type: overlay
+  open-graph: true
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    anchor-sections: true
+    link-external-newwindow: false
+execute:
+  enabled: false
+

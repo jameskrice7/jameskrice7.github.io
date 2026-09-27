@@ -1,0 +1,20 @@
+---
+title: International Norms of Environmental Governance
+lang: en-GB
+description: ''
+legacy:
+  title: International Norms of Environmental Governance
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-15
+  venue: Conflict/IR Seminar (University of Essex Seminar)
+  location: Colchester, United Kingdom
+  date: '2024-11-01'
+---
+
+
+```{=html}
+<div class="record-meta">Conflict/IR Seminar (University of Essex Seminar)<br>Colchester, United Kingdom<br>Talk<br>2024-11-01</div>
+```
+
+Delivered insights on emerging environmental governance norms at the Department of Government Conflict/IR Seminar.

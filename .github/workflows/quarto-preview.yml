@@ -1,0 +1,26 @@
+name: Quarto build and preservation checks
+on:
+  pull_request:
+  push:
+    branches: [quarto-redesign]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.10.18'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: quarto render site
+      - run: python migration/verify.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: quarto-site-preview
+          path: site/_site
+          include-hidden-files: true

@@ -1,0 +1,16 @@
+---
+title: LSE Minorities and Philosophy (MAP) Committee Member
+lang: en-GB
+description: ''
+legacy:
+  title: LSE Minorities and Philosophy (MAP) Committee Member
+  collection: service_and_leadership
+  date: '2023-09-18'
+---
+
+
+```{=html}
+<div class="record-meta">2023-09-18</div>
+```
+
+Organized events for individuals from underrepresented groups in the LSE Department of Philosophy, Logic and Scientific Method.

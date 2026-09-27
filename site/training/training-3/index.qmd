@@ -1,0 +1,20 @@
+---
+title: NESCI Winter School in Complex Systems 2020
+lang: en-GB
+description: ''
+legacy:
+  title: NESCI Winter School in Complex Systems 2020
+  layout: single
+  type: Postgraduate course
+  permalink: /training/training-3/
+  venue: New England Complex Systems Institute (NESCI)
+  date: '2020-01-13'
+  location: Cambridge, MA
+---
+
+
+```{=html}
+<div class="record-meta">New England Complex Systems Institute (NESCI)<br>Cambridge, MA<br>Postgraduate course<br>2020-01-13</div>
+```
+
+Two weeks' course at MIT on complex physical, biological, and economic systems. Taught by MIT, Harvard, and other Boston area faculty.

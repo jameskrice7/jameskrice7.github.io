@@ -1,0 +1,10 @@
+---
+title: Portfolio
+lang: en-GB
+---
+
+
+```{=html}
+<div class="work-list"><article class="work-card"><p class="eyebrow"> · </p><h3><a href="/portfolio/portfolio-1/">Portfolio item number 1</a></h3><p>Short description of portfolio item number 1<br/><img src='/images/500x300.png'></p><a class="text-link" href="/portfolio/portfolio-1/">Read more <span aria-hidden="true">↗</span></a></article><article class="work-card"><p class="eyebrow"> · </p><h3><a href="/portfolio/portfolio-2/">Portfolio item number 2</a></h3><p>Short description of portfolio item number 2 <br/><img src='/images/500x300.png'></p><a class="text-link" href="/portfolio/portfolio-2/">Read more <span aria-hidden="true">↗</span></a></article></div>
+```
+

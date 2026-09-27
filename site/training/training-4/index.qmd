@@ -1,0 +1,20 @@
+---
+title: The Posthuman and New Materialism Summer School 2023
+lang: en-GB
+description: ''
+legacy:
+  title: The Posthuman and New Materialism Summer School 2023
+  layout: single
+  type: Postgraduate course
+  permalink: /training/training-4/
+  venue: Utrecht University
+  date: '2023-08-01'
+  location: Virtual
+---
+
+
+```{=html}
+<div class="record-meta">Utrecht University<br>Virtual<br>Postgraduate course<br>2023-08-01</div>
+```
+
+Weeklong course in posthuman philosophy, feminist theory, and decolonial research, taught by distinguished humanities professor Rosi Braidotti.

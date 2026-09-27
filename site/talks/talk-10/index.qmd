@@ -1,0 +1,20 @@
+---
+title: The Social Construction of Religious Political Morality
+lang: en-GB
+description: ''
+legacy:
+  title: The Social Construction of Religious Political Morality
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-10
+  venue: 'The London School of Economics and Political Science '
+  date: '2024-05-12'
+  location: London, UK
+---
+
+
+```{=html}
+<div class="record-meta">The London School of Economics and Political Science <br>London, UK<br>Talk<br>2024-05-12</div>
+```
+
+Presented my work in progress MSc dissertation to a group of peers from the Department of Philosophy, Logic and Scientific Method at LSE.

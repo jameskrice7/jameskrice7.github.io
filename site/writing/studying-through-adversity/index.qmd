@@ -1,0 +1,24 @@
+---
+title: Studying Through Adversity
+lang: en-GB
+description: ''
+legacy:
+  title: Studying Through Adversity
+  collection: writing
+  type: Article
+  permalink: /writing/studying-through-adversity
+  venue: Students at LSE Blog
+  date: '2024-05-23'
+  link: https://blogs.lse.ac.uk/studentsatlse/2024/05/23/studying-through-adversity-how-equity-diversity-and-inclusion-works-at-lse/
+---
+
+
+```{=html}
+<div class="record-meta">Students at LSE Blog<br>Article<br>2024-05-23</div>
+```
+
+```{=html}
+<div class="record-links"><a class="text-link" href="https://blogs.lse.ac.uk/studentsatlse/2024/05/23/studying-through-adversity-how-equity-diversity-and-inclusion-works-at-lse/">Read original ↗</a></div>
+```
+
+A piece discussing my experiences at university dealing with neurodiversity.

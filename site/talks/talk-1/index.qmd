@@ -1,0 +1,20 @@
+---
+title: ESG Investing and Carbon Footprint Measurement
+lang: en-GB
+description: ''
+legacy:
+  title: ESG Investing and Carbon Footprint Measurement
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-1
+  venue: The University of New Hampshire
+  date: '2017-08-12'
+  location: Durham, New Hampshire
+---
+
+
+```{=html}
+<div class="record-meta">The University of New Hampshire<br>Durham, New Hampshire<br>Talk<br>2017-08-12</div>
+```
+
+Presentation was the culmination of the University of New Hampshire (UNH) Social Innovation Internship programme (2017). After the completion of my internship at Veris Wealth Partners, an impact investing firm in Portsmouth, NH, I showcased my contributions to the firm's impact report and answered questions fielded from an academic audience as a group with other interns from different placements.

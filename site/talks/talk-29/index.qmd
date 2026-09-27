@@ -1,0 +1,25 @@
+---
+title: Does Climate Misinformation Exacerbate Information Asymmetry?
+lang: en-GB
+description: Developed the argument that climate misinformation can distort information
+  environments and intensify asymmetries relevant to economic governance and sustainable
+  markets.
+legacy:
+  title: Does Climate Misinformation Exacerbate Information Asymmetry?
+  collection: talks
+  type: Talk
+  permalink: /talks/talk-29
+  venue: SASE General Conference
+  location: Bordeaux, France
+  date: '2026-07-04'
+  excerpt: Developed the argument that climate misinformation can distort information
+    environments and intensify asymmetries relevant to economic governance and sustainable
+    markets.
+---
+
+
+```{=html}
+<div class="record-meta">SASE General Conference<br>Bordeaux, France<br>Talk<br>2026-07-04</div>
+```
+
+Developed the argument that climate misinformation can distort information environments and intensify asymmetries relevant to economic governance and sustainable markets.
