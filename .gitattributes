@@ -1,0 +1,2 @@
+# PDF byte offsets must survive Windows and Linux checkouts unchanged.
+*.pdf -text
