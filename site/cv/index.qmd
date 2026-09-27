@@ -2,12 +2,13 @@
 title: Curriculum vitae
 lang: en-GB
 toc: true
+css: cv.css
 ---
 
 
 
 Education
-======
+------
 * Ph.D in Government, The University of Essex, 2027 (expected)
 * MSc in Philosophy of the Social Sciences, The London School of Economics and Political Science, 2024
 * MSc in Philosophy, Science and Religion, The University of Edinburgh, 2023
@@ -16,7 +17,7 @@ Education
 
 
 Work experience
-======
+------
 * October 2026 - Present: Fixed-Term Lecturer in Computational Social Science
   * Department of Sociology and Criminology at the University of Essex
     * Autumn 2026
@@ -58,7 +59,7 @@ Work experience
   * The Mercatus Center at George Mason University
   
 Skills
-======
+------
 * Programming:
   * R
   * Python
@@ -71,7 +72,7 @@ Skills
 
 
 Publications
-======
+------
 
 
 ```{=html}
@@ -81,7 +82,7 @@ Publications
 
 
 Working Papers
-======
+------
 
 
 ```{=html}
@@ -91,7 +92,7 @@ Working Papers
 
 
 Talks
-======
+------
 
 
 ```{=html}
@@ -103,7 +104,7 @@ Talks
 
   
 Service and leadership
-======
+------
   
 
 ```{=html}
