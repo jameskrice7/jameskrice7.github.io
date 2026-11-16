@@ -3,6 +3,7 @@ title: Sitemap
 search: false
 ---
 
+- [Does Climate Misinformation Affect ESG Performance? Evidence from Social Media and Firm-Level Data](/publications/climate_misinformation_esg/)
 - [Beyond Post-Truth: Projecting the Future Trajectory of Climate Misinformation](/publications/Beyond_post_truth_climate_misinformation/)
 - [The Epistemic Frontier of Capitalism: A Theory of Epistemic Regression through Artificial Intelligence and Misinformation](/publications/epistemic_frontier_capitalism/)
 - [The Prospect of ‘Just Emissions’ as an International Norm of Environmental Governance](/publications/Just_emissions/)
@@ -10,7 +11,6 @@ search: false
 - [The Liberal Order in Complex Societies Marred by Climate Change](/publications/liberal_order_complex_societies_climate_change/)
 - [The Misinformation Challenge: How Information Freedom Promotes Democratic Discourse](/publications/misinformation_challenge_information_freedom/)
 - [The Social Justification of Climate Change Beliefs and Environmental Communication](/working_papers/Climate_Misinformation/)
-- [Does Climate Misinformation Affect ESG Performance? Evidence from Social Media and Firm-Level Data](/working_papers/climate_misinformation_esg/)
 - [An Ecological Ethics for the Anthropocene: Environmental Justice and Religion](/working_papers/ecological_ethics/)
 - [Climate Change and Complexity in Classical Liberal Theories of Development](/working_papers/liberal_complexity/)
 - [The Social Construction of Religious Political Morality](/working_papers/religious_political_morality/)

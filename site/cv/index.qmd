@@ -5,7 +5,7 @@ toc: true
 css: cv.css
 ---
 
-[Updated 27 September 2026]{.cv-updated}
+[Updated 16 November 2026]{.cv-updated}
 
 ## Education
 
@@ -62,6 +62,8 @@ css: cv.css
 
 ## Publications
 
+- **[Does Climate Misinformation Affect ESG Performance? Evidence from Social Media and Firm-Level Data](/publications/climate_misinformation_esg/)**  
+  *Open Economies Review* — November 2026.
 - **[The Epistemic Frontier of Capitalism: A Theory of Epistemic Regression through Artificial Intelligence and Misinformation](/publications/epistemic_frontier_capitalism/)**  
   *The Cambridge Journal of Artificial Intelligence* — July 2026.
 - **[The Liberal Order in Complex Societies Marred by Climate Change](/publications/liberal_order_complex_societies_climate_change/)**  

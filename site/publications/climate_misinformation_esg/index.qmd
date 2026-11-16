@@ -1,0 +1,28 @@
+---
+title: 'Does Climate Misinformation Affect ESG Performance? Evidence from Social Media and Firm-Level Data'
+lang: en-GB
+description: >-
+  Drawing on 530,888 social media posts and ESG data for 5,064 publicly listed firms, this study finds that greater exposure to climate misinformation is associated with higher ESG scores, chiefly through exposure related to corporate governance.
+aliases:
+  - '/working_papers/climate_misinformation_esg/index.html'
+---
+
+```{=html}
+<div class="record-meta">James Kennon Rice<br>Open Economies Review<br>2026-11-11</div>
+```
+
+```{=html}
+<div class="record-links"><a class="text-link" href="https://link.springer.com/article/10.1007/s11079-026-09885-1">Read paper ↗</a> · <a class="text-link" href="https://osf.io/dp4g2/">Data and code ↗</a></div>
+```
+
+I use an open-weight language model to analyse 530,888 climate-related social media posts. I identify posts that contradict the scientific consensus on climate change and assess their relevance to each of the three ESG pillars. By weighting those signals using each firm’s ESG profile, I estimate how exposure to climate misinformation varies across firms and over time.
+
+Across 5,064 publicly listed firms, greater exposure is associated with higher ESG scores after accounting for persistent differences between firms and shocks shared within each month. Exposure to misinformation related to corporate governance accounts for most of the association. The findings suggest that misinformation can make environmental risks more salient to firms and influence how they manage those risks.
+
+**Keywords** · ESG performance, climate change misinformation, information externalities, environmental risk management, panel data, firm sustainability, environmental NLP
+
+**JEL classification** · D83, M14, G34, Q54, C23
+
+## Citation
+
+Rice, J. K. (2026). “Does Climate Misinformation Affect ESG Performance? Evidence from Social Media and Firm-Level Data.” *Open Economies Review*. [https://doi.org/10.1007/s11079-026-09885-1](https://doi.org/10.1007/s11079-026-09885-1)

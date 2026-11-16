@@ -8,6 +8,7 @@ project:
   - '!assets/**'
   - '!talkmap/**'
   - '!images/**'
+  - '!working_papers/climate_misinformation_esg/index.qmd'
   resources:
   - files/**
   - images/**
