@@ -200,6 +200,9 @@ css: cv.css
 
 - *PLOS Climate*.
 - *Open Economies Review*.
+- *Sage Open*.
+- *Humanities and Social Sciences Communications*.
+- *European Journal of Scientific Research and Reviews*.
 
 ## Awards
 
